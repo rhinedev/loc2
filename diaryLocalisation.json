@@ -1,8 +1,8 @@
 {
     "texts": [
         {
-            "ID": "ITEM_NAME_CUP NOODLE",
-            "EN": "Cup Noodle",
+            "ID": "DIARY_TITLE_1",
+            "EN": "Laundry Day",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -17,8 +17,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_CUP NOODLE",
-            "EN": "Best supper Ever! ",
+            "ID": "DIARY_BODY_1",
+            "EN": "Today is laundry day~ I woke up, did my laundry and went back to sleep! What a fun day!",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -33,8 +33,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_RED BUTTERFLY",
-            "EN": "Red Butterfly",
+            "ID": "DIARY_TITLE_2",
+            "EN": "I Skip a step Today! ",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -49,8 +49,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_RED BUTTERFLY",
-            "EN": "Let the butterfly soar in the air and hope it doesn't get eaten by birds~",
+            "ID": "DIARY_BODY_2",
+            "EN": "I'm so talented at skipping! No one can beat me! For your info, it wasn't raining, that's my sweat!",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -65,8 +65,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_MONSTER CATCHER",
-            "EN": "Monster Catcher",
+            "ID": "DIARY_TITLE_3",
+            "EN": "A Much Needed Scrub",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -81,8 +81,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_MONSTER CATCHER",
-            "EN": "You can even catch monsters with this! ",
+            "ID": "DIARY_BODY_3",
+            "EN": "After many days of smelling like a rotten tomato, I finally got to bathe and become sparkly clean!",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -97,103 +97,7 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_SKIPPING ROPE",
-            "EN": "Skipping Rope",
-            "SP": "",
-            "FR": "",
-            "pt_BR": "",
-            "RU": "",
-            "CNSimplified": "",
-            "CNTaiwan": "",
-            "JPN": "",
-            "GER": "",
-            "ITA": "",
-            "KOR": "",
-            "THAI": "",
-            "MY": ""
-        },
-        {
-            "ID": "ITEM_DESC_SKIPPING ROPE",
-            "EN": "Time to exercise, you are getting chubby!",
-            "SP": "",
-            "FR": "",
-            "pt_BR": "",
-            "RU": "",
-            "CNSimplified": "",
-            "CNTaiwan": "",
-            "JPN": "",
-            "GER": "",
-            "ITA": "",
-            "KOR": "",
-            "THAI": "",
-            "MY": ""
-        },
-        {
-            "ID": "ITEM_NAME_OCEAN HUNTER",
-            "EN": "Ocean Hunter",
-            "SP": "",
-            "FR": "",
-            "pt_BR": "",
-            "RU": "",
-            "CNSimplified": "",
-            "CNTaiwan": "",
-            "JPN": "",
-            "GER": "",
-            "ITA": "",
-            "KOR": "",
-            "THAI": "",
-            "MY": ""
-        },
-        {
-            "ID": "ITEM_DESC_OCEAN HUNTER",
-            "EN": "The ocean of fishes! None can escape the legendary Ocean Hunter!",
-            "SP": "",
-            "FR": "",
-            "pt_BR": "",
-            "RU": "",
-            "CNSimplified": "",
-            "CNTaiwan": "",
-            "JPN": "",
-            "GER": "",
-            "ITA": "",
-            "KOR": "",
-            "THAI": "",
-            "MY": ""
-        },
-        {
-            "ID": "ITEM_NAME_RUBBER DUCKLING",
-            "EN": "Rubber Duckling",
-            "SP": "",
-            "FR": "",
-            "pt_BR": "",
-            "RU": "",
-            "CNSimplified": "",
-            "CNTaiwan": "",
-            "JPN": "",
-            "GER": "",
-            "ITA": "",
-            "KOR": "",
-            "THAI": "",
-            "MY": ""
-        },
-        {
-            "ID": "ITEM_DESC_RUBBER DUCKLING",
-            "EN": "Comes with a bathtub. You should take a bath, you are starting to smell...",
-            "SP": "",
-            "FR": "",
-            "pt_BR": "",
-            "RU": "",
-            "CNSimplified": "",
-            "CNTaiwan": "",
-            "JPN": "",
-            "GER": "",
-            "ITA": "",
-            "KOR": "",
-            "THAI": "",
-            "MY": ""
-        },
-        {
-            "ID": "ITEM_NAME_LORD OF THE CARROTS",
+            "ID": "DIARY_TITLE_4",
             "EN": "Lord of the Carrots",
             "SP": "",
             "FR": "",
@@ -209,8 +113,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_LORD OF THE CARROTS",
-            "EN": "The future of all civilization rests in the fate of the One Carrot! Fate has placed it in a young Rabbit, Modo!",
+            "ID": "DIARY_BODY_4",
+            "EN": "Finally my time to sit down, relax and enjoy reading my new book. The title has already made me so excited because it’ll be all about carrots~~",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -225,8 +129,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_CARROT CHIPS",
-            "EN": "Carrot Chips",
+            "ID": "DIARY_TITLE_5",
+            "EN": "Look What I Caught!",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -241,8 +145,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_CARROT CHIPS",
-            "EN": "Carrot Chips is everyone's favorite snack especially if you are a rabbit! Get one now!",
+            "ID": "DIARY_BODY_5",
+            "EN": "Pheww~ Running around in the garden catching these bugs is so tiring~ They must be really smart and fast to evade my net!\r",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -257,8 +161,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_DUCKY FLOAT",
-            "EN": "Ducky Float",
+            "ID": "DIARY_TITLE_6",
+            "EN": "The Last Pack of Chips!",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -273,8 +177,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_DUCKY FLOAT",
-            "EN": "Hop on Ducky and sail far away! You will be one step closer to exploring the whole world! ",
+            "ID": "DIARY_BODY_6",
+            "EN": "This is not an evidence that I ate chips today! This is a reminder to stop eating junk food!",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -289,8 +193,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_CARROT UKULELE",
-            "EN": "Carrot Ukulele",
+            "ID": "DIARY_TITLE_7",
+            "EN": "Practice makes perfect!",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -305,8 +209,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_CARROT UKULELE",
-            "EN": "Who doesn't want a carrot ukulele? When you are hungry you can even munch on it.",
+            "ID": "DIARY_BODY_7",
+            "EN": "I believe one day I am going to become the best ukuleleist in the world! Practice! Practice! Everyday!",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -321,8 +225,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_STAR SHOOTER",
-            "EN": "Star Shooter",
+            "ID": "DIARY_TITLE_8",
+            "EN": "Fly Butterfly Fly!",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -337,8 +241,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_STAR SHOOTER",
-            "EN": "Shoots fireworks that will make the night sky shine!",
+            "ID": "DIARY_BODY_8",
+            "EN": "It was such a breezy day today! The perfect day to finally fly my kite up high in the sky!",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -353,8 +257,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_DUCK EGG",
-            "EN": "Duck Egg",
+            "ID": "DIARY_TITLE_9",
+            "EN": "This is life!",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -369,8 +273,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_DUCK EGG",
-            "EN": "Unfertilised duck egg... Yuck...",
+            "ID": "DIARY_BODY_9",
+            "EN": "Life is about eating a warm cup of Cup Noodles in a cozy treehouse, on an empty stomach! Heaven on earth!",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -385,8 +289,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_BULLSEYE",
-            "EN": "Bullseye",
+            "ID": "DIARY_TITLE_10",
+            "EN": "The Plain Bowl of rice!",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -401,8 +305,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_BULLSEYE",
-            "EN": "This bow is made by a master craftsman using a very exotic Yew.",
+            "ID": "DIARY_BODY_10",
+            "EN": "This plain bowl of rice reminds me of the days before I left the village. All we could afford was a plain bowl of rice.",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -417,8 +321,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_MOCA'S CLOCK",
-            "EN": "Moca's Clock",
+            "ID": "DIARY_TITLE_11",
+            "EN": "Good Fight! ",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -433,8 +337,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_MOCA'S CLOCK",
-            "EN": "An antique that still works, chirping every hour!",
+            "ID": "DIARY_BODY_11",
+            "EN": "It was a tough fight between me and that tuna! If there was no wind I definitely would have won!",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -449,8 +353,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_PHOTO OF US",
-            "EN": "Photo of Us",
+            "ID": "DIARY_TITLE_12",
+            "EN": "Chi and I",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -465,8 +369,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_PHOTO OF US",
-            "EN": "Looking at all these photos brings back so much memories.",
+            "ID": "DIARY_BODY_12",
+            "EN": "Today Chi came over to my house! I am pretty sure it's because she knew that I bought some carrot chippies!",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -481,8 +385,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_SARDINE",
-            "EN": "Sardine",
+            "ID": "DIARY_TITLE_13",
+            "EN": "The Story of the LightHouse",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -497,8 +401,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_SARDINE",
-            "EN": "It's a small fish.",
+            "ID": "DIARY_BODY_13",
+            "EN": "I didn’t know that the Lighthouse had such a sad backstory... A mermaid sacrificed herself to save this village! Salute!",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -513,8 +417,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_STINKY BOOT",
-            "EN": "Stinky Boot",
+            "ID": "DIARY_TITLE_14",
+            "EN": "Best Friends For Life! ",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -529,8 +433,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_STINKY BOOT",
-            "EN": "Maybe if I have two of them, I could wear them.",
+            "ID": "DIARY_BODY_14",
+            "EN": "Finally reunited with my BFFL~~~ We caught up on so much gossip!! From Bobo to Momo, we gossipped about everybody!! So happy!!!",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -545,8 +449,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_DRAGON SPINNER",
-            "EN": "Dragon Spinner",
+            "ID": "DIARY_TITLE_15",
+            "EN": "Matcha Day! ",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -561,8 +465,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_DRAGON SPINNER",
-            "EN": "Spin spin spin! No one can stop BayBlade from spinning!",
+            "ID": "DIARY_BODY_15",
+            "EN": "Feels so relaxing to just sit here and enjoy a cup of Matcha tea, this is life~",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -577,8 +481,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_CHALLENGER",
-            "EN": "Challenger",
+            "ID": "DIARY_TITLE_16",
+            "EN": "Best Meal of the Day! ",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -593,8 +497,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_CHALLENGER",
-            "EN": "The hardest game on earth! No one can do it more than 5 times.",
+            "ID": "DIARY_BODY_16",
+            "EN": "Ramen made by Bobo is the best ever!! The carrots melt instantly when I placed it in my mouth! Best meal of the day! ",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -609,8 +513,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_CAMERA",
-            "EN": "Camera",
+            "ID": "DIARY_TITLE_17",
+            "EN": "The Golden Ticket",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -625,8 +529,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_CAMERA",
-            "EN": "Makes memories in 3 seconds flat! Remember to shake the film off!",
+            "ID": "DIARY_BODY_17",
+            "EN": "OMG!!! I am heading to The Great City soon!!! I've heard so many great things about that place. However, I also heard that the train ride is 8hrs long...",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -641,8 +545,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_LORD OF THE CARROTS 2",
-            "EN": "Lord of the Carrots 2",
+            "ID": "DIARY_TITLE_18",
+            "EN": "To the Great City!",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -657,8 +561,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_LORD OF THE CARROTS 2",
-            "EN": "Modo and Dodo continue their journey to search for the One Carrot! A continuation from Book 1!",
+            "ID": "DIARY_BODY_18",
+            "EN": "This reminds me of when I left the village as a child. But this time I am not going to work there, I am going on vacation hehe!",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -673,8 +577,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_SPICY CURRY NOODLE",
-            "EN": "Spicy Curry Noodle",
+            "ID": "DIARY_TITLE_19",
+            "EN": "Chill by the lake~",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -689,8 +593,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_SPICY CURRY NOODLE",
-            "EN": "Have you tasted fire? This is even hotter!",
+            "ID": "DIARY_BODY_19",
+            "EN": "Bought my ukulele to the lake today for a breather! Playing my favorite tunes while enjoying the cool breeze~",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -705,8 +609,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_CARROT ONIGIRI",
-            "EN": "Carrot Onigiri",
+            "ID": "DIARY_TITLE_20",
+            "EN": "Shooting Star! ",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -721,8 +625,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_CARROT ONIGIRI",
-            "EN": "Cheapest food in town! Oni~ Oni~ Who doesn't want an Onigiri~",
+            "ID": "DIARY_BODY_20",
+            "EN": "What a beautiful starry night, the stars are shining so brightly within the darkness~",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -737,8 +641,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_TV SET",
-            "EN": "TV Set",
+            "ID": "DIARY_TITLE_21",
+            "EN": "The Cubicle Hotel! ",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -753,8 +657,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_TV SET",
-            "EN": "Tired of your boring life? Get a tv! It will be shipped to your house!",
+            "ID": "DIARY_BODY_21",
+            "EN": "First experience in a cubicle hotel! Tight! We have our own tiny closet to keep our bags and this small tiny space to sleep! I can barely fit in! ",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -769,8 +673,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_CEATS HEADSET",
-            "EN": "Ceats Headset",
+            "ID": "DIARY_TITLE_22",
+            "EN": "The Yellow Ducky! ",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -785,8 +689,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_CEATS HEADSET",
-            "EN": "Join the trend! Buy a Ceats Headset! Feel the bass! ",
+            "ID": "DIARY_BODY_22",
+            "EN": "It was relaxing to lie on my yellow ducky until I woke up with a sunburn! I was a roasted rabbit! Bad idea~ Don't ever fall asleep on ducky!",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -801,8 +705,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_CARROT BOOK PRO",
-            "EN": "Carrot Book Pro",
+            "ID": "DIARY_TITLE_23",
+            "EN": "Grow Carrots Grow! ",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -817,8 +721,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_CARROT BOOK PRO",
-            "EN": "Lightest Laptop Ever! 2.4kB Ram! 5kB Storage!",
+            "ID": "DIARY_BODY_23",
+            "EN": "Grow, my baby carrots! No one will realize you are growing there hehe! I placed a signboard saying there are no carrots here~",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -833,8 +737,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_CPHONE X",
-            "EN": "Cphone X",
+            "ID": "DIARY_TITLE_24",
+            "EN": "TV in the HOUSE!",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -849,8 +753,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_CPHONE X",
-            "EN": "Latest trending phone in the market! Waterproof! (Just a little bit...)",
+            "ID": "DIARY_BODY_24",
+            "EN": "Finally got to watch my TV today! So interesting~ Now TVs can be mounted on the wall. Before I moved to the country, TVs were over 50 kilos.",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -865,8 +769,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_CAZDA R8",
-            "EN": "Cazda R8",
+            "ID": "DIARY_TITLE_25",
+            "EN": "I am addicted! ",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -881,8 +785,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_CAZDA R8",
-            "EN": "1000 Cheetah Power! Fully air-conditioned! Able to travel off-road too! No worries!",
+            "ID": "DIARY_BODY_25",
+            "EN": "I am addicted to this CarrotBook! There are so many videos to watch~ Games to play~ I can even video chat with the friends that I met in the city!",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -897,8 +801,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_ARCADE VIP CARD",
-            "EN": "Arcade VIP card",
+            "ID": "DIARY_TITLE_26",
+            "EN": "The Presidential Suite",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -913,8 +817,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_ARCADE VIP CARD",
-            "EN": "Unlimited credit at BEON Arcade! Great value!  ",
+            "ID": "DIARY_BODY_26",
+            "EN": "Reading Lord of the Carrots 2 in this presidential suite feels so different! So chill~ I want to stay here forever~~",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -929,8 +833,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_CLIVE'S CARROTCARD",
-            "EN": "Clive's CarrotCard",
+            "ID": "DIARY_TITLE_27",
+            "EN": "Intense Battle",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -945,8 +849,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_CLIVE'S CARROTCARD",
-            "EN": "All you need is this deck of cards and you can have fun for the entire day.",
+            "ID": "DIARY_BODY_27",
+            "EN": "Today I had an intense battle with Rahul and Krieger!!! I lost 250 carrots at the start but eventually recouped my losses!",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -961,8 +865,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_KIMBO'S GLOVE",
-            "EN": "Kimbo's Glove",
+            "ID": "DIARY_TITLE_28",
+            "EN": "OmuNoodles",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -977,8 +881,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_KIMBO'S GLOVE",
-            "EN": "BluePoison Glove XS with Kimbo's signature! ",
+            "ID": "DIARY_BODY_28",
+            "EN": "It is not easter yet but I still hid some eggs (in my tummy). It tastes like BoBo's ramen but sealed within eggs~ What was it called? OmuNoodles or something~\r",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -993,8 +897,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_MAIL",
-            "EN": "Mail",
+            "ID": "DIARY_TITLE_29",
+            "EN": "My New Phone",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -1009,8 +913,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_MAIL",
-            "EN": "Unopened mail.",
+            "ID": "DIARY_BODY_29",
+            "EN": "WHAT??? Nowadays phones have a touchscreen! I can even take pictures with it! Technology from The Great City is so advanced!",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -1025,8 +929,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_.45",
-            "EN": ".45",
+            "ID": "DIARY_TITLE_30",
+            "EN": "Presidential Suite",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -1041,8 +945,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_.45",
-            "EN": "Whoa... what is this... I'm scared... I don't like this...",
+            "ID": "DIARY_BODY_30",
+            "EN": "This is heaven! Heaven for me~ Hell for my wallet~ Staying a night here cost me a bomb~~ So many carrots for this one night of comfort!",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -1057,8 +961,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_SMOKES",
-            "EN": "Smokes",
+            "ID": "DIARY_TITLE_31",
+            "EN": "The Red Drink",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -1073,8 +977,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_SMOKES",
-            "EN": "Ken's favourite",
+            "ID": "DIARY_BODY_31",
+            "EN": "This rrredd drrrink iss makingggg myyy bodddyyy Redddd~~~~~ Verrryy innntterressttinnngg ..  . . ",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -1089,8 +993,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_MISTAKE",
-            "EN": "Mistake",
+            "ID": "DIARY_TITLE_32",
+            "EN": "Matcha for life! ",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -1105,8 +1009,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_MISTAKE",
-            "EN": "Silly bunny, what have you done? Who will answer for this abomination? God won't.",
+            "ID": "DIARY_BODY_32",
+            "EN": "This is the most amazing Matcha Latte! It has the perfect combination of sweet and bitter~ Wish I could have it every single day!",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -1121,8 +1025,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_GLASSWARE",
-            "EN": "Glassware",
+            "ID": "DIARY_TITLE_33",
+            "EN": "Chilling by the Lake",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -1137,8 +1041,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_GLASSWARE",
-            "EN": "Hmm, what does it do?",
+            "ID": "DIARY_BODY_33",
+            "EN": "Chi and I decided to laze around the wharf. She said I’m a good listener because I’m all ears~",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -1153,8 +1057,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_GACHA TICKET",
-            "EN": "Gacha Ticket",
+            "ID": "DIARY_TITLE_34",
+            "EN": "~A New Life~ ",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -1169,8 +1073,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_GACHA TICKET",
-            "EN": "Used to redeem gachapon balls!",
+            "ID": "DIARY_BODY_34",
+            "EN": "I just moved into the old tree house at Mushroom village. This marks a new beginning for me. I hope I don’t mess this up.",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -1185,8 +1089,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_GOLDEN TICKET",
-            "EN": "Golden Ticket",
+            "ID": "DIARY_TITLE_35",
+            "EN": "Fishing with Yori",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -1201,8 +1105,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_GOLDEN TICKET",
-            "EN": "Ticket to The Great City! Where all animals unite!",
+            "ID": "DIARY_BODY_35",
+            "EN": "Went fishing with Yori and learned a lesson about patience. Sat there for hours without moving...",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -1217,8 +1121,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_HALIBUT",
-            "EN": "Halibut",
+            "ID": "DIARY_TITLE_36",
+            "EN": "Burger is Life! ",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -1233,8 +1137,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_HALIBUT",
-            "EN": "Great with lemon and tartar sauce.",
+            "ID": "DIARY_BODY_36",
+            "EN": "I wolfed down this deeelicious burger! Greasy and juicy, just the way I like it.",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -1249,8 +1153,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_BLUE GILL",
-            "EN": "Blue Gill",
+            "ID": "DIARY_TITLE_37",
+            "EN": "Test Drive",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -1265,8 +1169,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_BLUE GILL",
-            "EN": "Why is it called Blue Gill when it's green. ",
+            "ID": "DIARY_BODY_37",
+            "EN": "VROOM! VROOM! This car has really powerful engines! I can feel the vibrations shaking my bones. One day I am totally going to get it!",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -1281,8 +1185,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_CARP",
-            "EN": "Carp",
+            "ID": "DIARY_TITLE_38",
+            "EN": "Grocery Shopping",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -1297,8 +1201,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_CARP",
-            "EN": "Seize the day.",
+            "ID": "DIARY_BODY_38",
+            "EN": "The city mart sells almost everything! Should probably bring back some stuff to Mushroom Village.",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -1313,8 +1217,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_CATFISH",
-            "EN": "Catfish",
+            "ID": "DIARY_TITLE_39",
+            "EN": "? Mysterious Canned Drink ?",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -1329,8 +1233,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_CATFISH",
-            "EN": "You can hear it meow if you listen closely.",
+            "ID": "DIARY_BODY_39",
+            "EN": "Just bought this interesting canned drink from a vending machine. Tastes great for the $?",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -1345,8 +1249,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_CHUB",
-            "EN": "Chub",
+            "ID": "DIARY_TITLE_40",
+            "EN": "A Day at Work",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -1361,8 +1265,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_CHUB",
-            "EN": "Little chubby chub.",
+            "ID": "DIARY_BODY_40",
+            "EN": "Worked at Momo's Teahouse today! Pouring tea, drinking tea~ This is the life~ ",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -1377,8 +1281,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_CLOWNFISH",
-            "EN": "Clownfish",
+            "ID": "DIARY_TITLE_41",
+            "EN": "Bullseye!",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -1393,8 +1297,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_CLOWNFISH",
-            "EN": "This fish is not very funny.",
+            "ID": "DIARY_BODY_41",
+            "EN": "It makes my heart skip a beat whenever I fire an arrow! My heart still races when I think about it now!! So scary~",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -1409,8 +1313,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_FLYING FISH",
-            "EN": "Flying Fish",
+            "ID": "DIARY_TITLE_42",
+            "EN": "After Hours",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -1425,8 +1329,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_FLYING FISH",
-            "EN": "Drank some red bull.",
+            "ID": "DIARY_BODY_42",
+            "EN": "Brought my new phone out for a spin at the geisha bar~ Almost dropped it but guess what? I saved it~ ",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -1441,8 +1345,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_LIONFISH",
-            "EN": "Lionfish",
+            "ID": "DIARY_TITLE_43",
+            "EN": "Boxing Day!",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -1457,8 +1361,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_LIONFISH",
-            "EN": "Roars when it gets angry!",
+            "ID": "DIARY_BODY_43",
+            "EN": "Today I used the glove Kimbo gave me at the Kyudo! Hopefully one day he will return and give these bags a signature beatdown.",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -1473,8 +1377,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_LYRETAIL ANTHIAS",
-            "EN": "Lyretail Anthias",
+            "ID": "DIARY_TITLE_44",
+            "EN": "Up Up and Hooray! ",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -1489,8 +1393,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_LYRETAIL ANTHIAS",
-            "EN": "Bright orange scales!",
+            "ID": "DIARY_BODY_44",
+            "EN": "It's amazing! So thankful to Yori for giving me this~ It's like a flower blooming in the sky! ",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -1505,8 +1409,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_NARWHAL",
-            "EN": "Narwhal",
+            "ID": "DIARY_TITLE_45",
+            "EN": "Training! ",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -1521,8 +1425,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_NARWHAL",
-            "EN": "Legendary whale with a horn! ",
+            "ID": "DIARY_BODY_45",
+            "EN": "I can still remember the moves clearly in my head! Left swing! Spin! Right Swing! Hit! Bend over! Strike! ",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -1537,8 +1441,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_STURGEON",
-            "EN": "Sturgeon",
+            "ID": "DIARY_TITLE_46",
+            "EN": "Bike Racing",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -1553,8 +1457,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_STURGEON",
-            "EN": "Looks like a armoured fish.",
+            "ID": "DIARY_BODY_46",
+            "EN": "This is intense! I'm sweating playing a video game but guess what... I got the first place!",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -1569,8 +1473,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_SWORDFISH",
-            "EN": "Swordfish",
+            "ID": "DIARY_TITLE_47",
+            "EN": "The Night of the year~",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -1585,8 +1489,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_SWORDFISH",
-            "EN": "A 2001 action movie about a computer hacker.",
+            "ID": "DIARY_BODY_47",
+            "EN": "Tonight is the biggest night of the year! Chi, Moca and I sang our hearts out as we enjoyed a night sky filled with fireworks!",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -1601,8 +1505,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_TRIGGERFISH",
-            "EN": "Triggerfish",
+            "ID": "DIARY_TITLE_48",
+            "EN": "The Battle! ",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -1617,8 +1521,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_TRIGGERFISH",
-            "EN": "Wants to kiss you.",
+            "ID": "DIARY_BODY_48",
+            "EN": "In the game, there is no friendship! I finally understood the meaning of this phrase today! All the dirty tricks Moca and Chi pulled in order to win...",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -1633,8 +1537,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_TUNA",
-            "EN": "Tuna",
+            "ID": "DIARY_TITLE_49",
+            "EN": "Spin the Dragon!",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -1649,8 +1553,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_TUNA",
-            "EN": "This fish is big!",
+            "ID": "DIARY_BODY_49",
+            "EN": "Omg! Today I went to try out the dragon spinner! It's so fun! Does a dragon look like this? Why is it called a dragon spinner? I wondered.",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -1665,8 +1569,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_ANCHOVY",
-            "EN": "Anchovy",
+            "ID": "DIARY_TITLE_50",
+            "EN": "Challenger? ",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -1681,8 +1585,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_ANCHOVY",
-            "EN": "A classic topping on pizza.",
+            "ID": "DIARY_BODY_50",
+            "EN": "This is easy~ I thought this was supposed to be a challenge. I got cheated by Yori! This is not acceptable!",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -1697,8 +1601,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_NAME_BASS",
-            "EN": "Bass",
+            "ID": "DIARY_TITLE_51",
+            "EN": "Biggest Carrot Ever!",
             "SP": "",
             "FR": "",
             "pt_BR": "",
@@ -1713,232 +1617,8 @@
             "MY": ""
         },
         {
-            "ID": "ITEM_DESC_BASS",
-            "EN": "It’s all about that bass.",
-            "SP": "",
-            "FR": "",
-            "pt_BR": "",
-            "RU": "",
-            "CNSimplified": "",
-            "CNTaiwan": "",
-            "JPN": "",
-            "GER": "",
-            "ITA": "",
-            "KOR": "",
-            "THAI": "",
-            "MY": ""
-        },
-        {
-            "ID": "ITEM_NAME_BOTTLE",
-            "EN": "Bottle",
-            "SP": "",
-            "FR": "",
-            "pt_BR": "",
-            "RU": "",
-            "CNSimplified": "",
-            "CNTaiwan": "",
-            "JPN": "",
-            "GER": "",
-            "ITA": "",
-            "KOR": "",
-            "THAI": "",
-            "MY": ""
-        },
-        {
-            "ID": "ITEM_DESC_BOTTLE",
-            "EN": "This thing is polluting the ocean!",
-            "SP": "",
-            "FR": "",
-            "pt_BR": "",
-            "RU": "",
-            "CNSimplified": "",
-            "CNTaiwan": "",
-            "JPN": "",
-            "GER": "",
-            "ITA": "",
-            "KOR": "",
-            "THAI": "",
-            "MY": ""
-        },
-        {
-            "ID": "ITEM_NAME_COD",
-            "EN": "Cod",
-            "SP": "",
-            "FR": "",
-            "pt_BR": "",
-            "RU": "",
-            "CNSimplified": "",
-            "CNTaiwan": "",
-            "JPN": "",
-            "GER": "",
-            "ITA": "",
-            "KOR": "",
-            "THAI": "",
-            "MY": ""
-        },
-        {
-            "ID": "ITEM_DESC_COD",
-            "EN": "An expert at modern warfare.",
-            "SP": "",
-            "FR": "",
-            "pt_BR": "",
-            "RU": "",
-            "CNSimplified": "",
-            "CNTaiwan": "",
-            "JPN": "",
-            "GER": "",
-            "ITA": "",
-            "KOR": "",
-            "THAI": "",
-            "MY": ""
-        },
-        {
-            "ID": "ITEM_NAME_HERRING",
-            "EN": "Herring",
-            "SP": "",
-            "FR": "",
-            "pt_BR": "",
-            "RU": "",
-            "CNSimplified": "",
-            "CNTaiwan": "",
-            "JPN": "",
-            "GER": "",
-            "ITA": "",
-            "KOR": "",
-            "THAI": "",
-            "MY": ""
-        },
-        {
-            "ID": "ITEM_DESC_HERRING",
-            "EN": "Information that is intended to be misleading.",
-            "SP": "",
-            "FR": "",
-            "pt_BR": "",
-            "RU": "",
-            "CNSimplified": "",
-            "CNTaiwan": "",
-            "JPN": "",
-            "GER": "",
-            "ITA": "",
-            "KOR": "",
-            "THAI": "",
-            "MY": ""
-        },
-        {
-            "ID": "ITEM_NAME_PUFFERFISH",
-            "EN": "Pufferfish",
-            "SP": "",
-            "FR": "",
-            "pt_BR": "",
-            "RU": "",
-            "CNSimplified": "",
-            "CNTaiwan": "",
-            "JPN": "",
-            "GER": "",
-            "ITA": "",
-            "KOR": "",
-            "THAI": "",
-            "MY": ""
-        },
-        {
-            "ID": "ITEM_DESC_PUFFERFISH",
-            "EN": "Puff puff pass.",
-            "SP": "",
-            "FR": "",
-            "pt_BR": "",
-            "RU": "",
-            "CNSimplified": "",
-            "CNTaiwan": "",
-            "JPN": "",
-            "GER": "",
-            "ITA": "",
-            "KOR": "",
-            "THAI": "",
-            "MY": ""
-        },
-        {
-            "ID": "ITEM_NAME_SALMON",
-            "EN": "Salmon",
-            "SP": "",
-            "FR": "",
-            "pt_BR": "",
-            "RU": "",
-            "CNSimplified": "",
-            "CNTaiwan": "",
-            "JPN": "",
-            "GER": "",
-            "ITA": "",
-            "KOR": "",
-            "THAI": "",
-            "MY": ""
-        },
-        {
-            "ID": "ITEM_DESC_SALMON",
-            "EN": "Not a source of salmonella.",
-            "SP": "",
-            "FR": "",
-            "pt_BR": "",
-            "RU": "",
-            "CNSimplified": "",
-            "CNTaiwan": "",
-            "JPN": "",
-            "GER": "",
-            "ITA": "",
-            "KOR": "",
-            "THAI": "",
-            "MY": ""
-        },
-        {
-            "ID": "ITEM_NAME_DEAD FISH",
-            "EN": "Dead Fish",
-            "SP": "",
-            "FR": "",
-            "pt_BR": "",
-            "RU": "",
-            "CNSimplified": "",
-            "CNTaiwan": "",
-            "JPN": "",
-            "GER": "",
-            "ITA": "",
-            "KOR": "",
-            "THAI": "",
-            "MY": ""
-        },
-        {
-            "ID": "ITEM_DESC_DEAD FISH",
-            "EN": "Dead or Alive? That's the question.",
-            "SP": "",
-            "FR": "",
-            "pt_BR": "",
-            "RU": "",
-            "CNSimplified": "",
-            "CNTaiwan": "",
-            "JPN": "",
-            "GER": "",
-            "ITA": "",
-            "KOR": "",
-            "THAI": "",
-            "MY": ""
-        },
-        {
-            "ID": "ITEM_NAME_MESSAGE IN A BOTTLE",
-            "EN": "Message in a Bottle",
-            "SP": "",
-            "FR": "",
-            "pt_BR": "",
-            "RU": "",
-            "CNSimplified": "",
-            "CNTaiwan": "",
-            "JPN": "",
-            "GER": "",
-            "ITA": "",
-            "KOR": "",
-            "THAI": "",
-            "MY": ""
-        },
-        {
-            "ID": "ITEM_DESC_MESSAGE IN A BOTTLE",
-            "EN": "Wonder what's written in the message.",
+            "ID": "DIARY_BODY_51",
+            "EN": "Wow the fertilizer really worked! This is the biggest carrot I've ever seen!",
             "SP": "",
             "FR": "",
             "pt_BR": "",
