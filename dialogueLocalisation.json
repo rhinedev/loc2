@@ -3697,7 +3697,7 @@
             "MY": ""
         },
         {
-            "ID": "GachaDialogue_0_INTRO_0",
+            "ID": "GachaBoyDialogue_0_INTRO_0",
             "EN": "Hey, little cute rabbit!!! Want a toy??? GIMME A TICKET!",
             "SP": "",
             "FR": "",
@@ -3713,7 +3713,7 @@
             "MY": ""
         },
         {
-            "ID": "GachaDialogue_0_YES",
+            "ID": "GachaBoyDialogue_0_YES",
             "EN": "Okay! Gimme!",
             "SP": "",
             "FR": "",
@@ -3729,7 +3729,7 @@
             "MY": ""
         },
         {
-            "ID": "GachaDialogue_0_NO",
+            "ID": "GachaBoyDialogue_0_NO",
             "EN": "No thanks!",
             "SP": "",
             "FR": "",
@@ -3745,7 +3745,7 @@
             "MY": ""
         },
         {
-            "ID": "GachaDialogue_0_YESRESPONSE_0",
+            "ID": "GachaBoyDialogue_0_YESRESPONSE_0",
             "EN": "WOOHOO!!! QUICK! SPIN MY KNOB!",
             "SP": "",
             "FR": "",
@@ -3761,7 +3761,7 @@
             "MY": ""
         },
         {
-            "ID": "GachaDialogue_0_YESBUTNORESPONSE_0",
+            "ID": "GachaBoyDialogue_0_YESBUTNORESPONSE_0",
             "EN": "WOOH- ... Wait... You don't have a ticket!",
             "SP": "",
             "FR": "",
@@ -3777,7 +3777,7 @@
             "MY": ""
         },
         {
-            "ID": "GachaDialogue_0_NORESPONSE_0",
+            "ID": "GachaBoyDialogue_0_NORESPONSE_0",
             "EN": "Aww... Come back next time!",
             "SP": "",
             "FR": "",
@@ -3793,7 +3793,7 @@
             "MY": ""
         },
         {
-            "ID": "GachaDialogue_1_INTRO_0",
+            "ID": "GachaBoyDialogue_1_INTRO_0",
             "EN": "GET DAT TOY!",
             "SP": "",
             "FR": "",
@@ -3809,7 +3809,7 @@
             "MY": ""
         },
         {
-            "ID": "GachaDialogue_1_INTRO_1",
+            "ID": "GachaBoyDialogue_1_INTRO_1",
             "EN": "GOT ANY TICKETS?",
             "SP": "",
             "FR": "",
@@ -3825,7 +3825,7 @@
             "MY": ""
         },
         {
-            "ID": "GachaDialogue_1_YES",
+            "ID": "GachaBoyDialogue_1_YES",
             "EN": "Get dat toy!",
             "SP": "",
             "FR": "",
@@ -3841,7 +3841,7 @@
             "MY": ""
         },
         {
-            "ID": "GachaDialogue_1_NO",
+            "ID": "GachaBoyDialogue_1_NO",
             "EN": "No thanks!",
             "SP": "",
             "FR": "",
@@ -3857,7 +3857,7 @@
             "MY": ""
         },
         {
-            "ID": "GachaDialogue_1_YESRESPONSE_0",
+            "ID": "GachaBoyDialogue_1_YESRESPONSE_0",
             "EN": "YEAAAAH! SPIN MY KNOB!",
             "SP": "",
             "FR": "",
@@ -3873,7 +3873,7 @@
             "MY": ""
         },
         {
-            "ID": "GachaDialogue_1_YESBUTNORESPONSE_0",
+            "ID": "GachaBoyDialogue_1_YESBUTNORESPONSE_0",
             "EN": "WOOH- ... Wait... You don't have any tickets!",
             "SP": "",
             "FR": "",
@@ -3889,7 +3889,7 @@
             "MY": ""
         },
         {
-            "ID": "GachaDialogue_1_NORESPONSE_0",
+            "ID": "GachaBoyDialogue_1_NORESPONSE_0",
             "EN": "Aww... Next time?",
             "SP": "",
             "FR": "",
@@ -12337,7 +12337,7 @@
             "MY": ""
         },
         {
-            "ID": "GachaDialogue_0_INTRO_0",
+            "ID": "GachaBoy9000Dialogue_0_INTRO_0",
             "EN": "Hey... If you want a toy or whatever... 100 carrots...",
             "SP": "",
             "FR": "",
@@ -12353,7 +12353,7 @@
             "MY": ""
         },
         {
-            "ID": "GachaDialogue_0_YES",
+            "ID": "GachaBoy9000Dialogue_0_YES",
             "EN": "Sure... Whatever...",
             "SP": "",
             "FR": "",
@@ -12369,7 +12369,7 @@
             "MY": ""
         },
         {
-            "ID": "GachaDialogue_0_NO",
+            "ID": "GachaBoy9000Dialogue_0_NO",
             "EN": "Toys are for babies!",
             "SP": "",
             "FR": "",
@@ -12385,7 +12385,7 @@
             "MY": ""
         },
         {
-            "ID": "GachaDialogue_0_YESRESPONSE_0",
+            "ID": "GachaBoy9000Dialogue_0_YESRESPONSE_0",
             "EN": "Alright dude...",
             "SP": "",
             "FR": "",
@@ -12401,7 +12401,7 @@
             "MY": ""
         },
         {
-            "ID": "GachaDialogue_0_YESBUTNORESPONSE_0",
+            "ID": "GachaBoy9000Dialogue_0_YESBUTNORESPONSE_0",
             "EN": "Wait... You don't got the carrots? Not cool bro...",
             "SP": "",
             "FR": "",
@@ -12417,7 +12417,7 @@
             "MY": ""
         },
         {
-            "ID": "GachaDialogue_0_NORESPONSE_0",
+            "ID": "GachaBoy9000Dialogue_0_NORESPONSE_0",
             "EN": "Yeah... I know right...",
             "SP": "",
             "FR": "",
