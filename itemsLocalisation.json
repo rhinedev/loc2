@@ -1,38 +1,6 @@
 {
     "texts": [
         {
-            "ID": "ITEM_0_NAME",
-            "EN": "0",
-            "SP": "",
-            "FR": "",
-            "ptBR": "",
-            "RU": "",
-            "CNSimplified": "",
-            "CNTaiwan": "",
-            "JPN": "",
-            "GER": "",
-            "ITA": "",
-            "KOR": "",
-            "THAI": "",
-            "MY": ""
-        },
-        {
-            "ID": "ITEM_0_DESC",
-            "EN": "",
-            "SP": "",
-            "FR": "",
-            "ptBR": "",
-            "RU": "",
-            "CNSimplified": "",
-            "CNTaiwan": "",
-            "JPN": "",
-            "GER": "",
-            "ITA": "",
-            "KOR": "",
-            "THAI": "",
-            "MY": ""
-        },
-        {
             "ID": "ITEM_1_NAME",
             "EN": "Cup Noodle",
             "SP": "Taza de Noodles",
