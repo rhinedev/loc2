@@ -2913,6 +2913,54 @@
             "MY": "Mereka sepatutnya buat beg kerepek yang lebih besar~ Pek kerepek ini hanya dapat mengisi sedikit perut saya sahaja~"
         },
         {
+            "ID": "Moca_0_INTRO_0",
+            "EN": "Do you think this game is too sophiscated?",
+            "SP": "¿Crees que este juego es demasiado sofisticado?",
+            "FR": "Trouvez-vous ce jeu trop complexe ?",
+            "ptBR": "O jogo é sofisticado demais para você?",
+            "RU": "Тебе не кажется, что эта игра слишком сложная?",
+            "CNSimplified": "你觉得这个游戏太复杂了？",
+            "CNTaiwan": "你覺得這遊戲太複雜了嗎？",
+            "JPN": "このゲームってとっても洗練されてると思わない？",
+            "GER": "Glaubst du, dass dieses Spiel zu anspruchsvoll ist?",
+            "ITA": "Pensi che questo gioco sia troppo complicato?",
+            "KOR": "이 게임이 너무 복잡하게 느껴지니?",
+            "THAI": "เจ้าคิดว่าเกมนี้ซับซ้อนเกินไปรึเปล่า?",
+            "MY": "Awak rasa permainan ini terlalu canggih?"
+        },
+        {
+            "ID": "Moca_1_INTRO_0",
+            "EN": "I am just getting started! Get ready guys! ",
+            "SP": "¡Apenas estoy empezando! ¡Prepárense chicos!",
+            "FR": "Ce n'est que le début ! Préparez-vous !",
+            "ptBR": "Só estou me aquecendo! Preparem-se!",
+            "RU": "Я только начинаю! Готовьтесь, ребята!",
+            "CNSimplified": "我才刚开始！准备好，朋友们！",
+            "CNTaiwan": "我才剛開始而已！大家做好準備吧！",
+            "JPN": "始めたばかりなんだ！準備して！",
+            "GER": "Ich habe gerade erst angefangen! Macht euch alle bereit!",
+            "ITA": "Sto per iniziare! Preparatevi ragazzi!",
+            "KOR": "이제 시작일 뿐이니까 각오해!",
+            "THAI": "ฉันเพิ่งจะเริ่ม! เตรียมพร้อมนะเพื่อน!",
+            "MY": "Saya baru sahaja bermula! Bersedia semua!"
+        },
+        {
+            "ID": "Moca_2_INTRO_0",
+            "EN": "We totally need to match this card game with a tea session!",
+            "SP": "¡Necesitamos juntar este juego de cartas con una sesión de té!",
+            "FR": "On devrait prendre le thé en jouant à ce jeu de cartes !",
+            "ptBR": "Esse carteado combina perfeitamente com uma rodada de chá!",
+            "RU": "Карточные игры отлично идут под чашечку чая!",
+            "CNSimplified": "茶会的时候，我们很有必要玩这个卡牌游戏！",
+            "CNTaiwan": "我們需要一邊打牌一邊喝茶！",
+            "JPN": "このカードゲームはぜひともお茶会のときにしたいね！",
+            "GER": "Wir müssen dieses Kartenspiel echt mit einem Tee verbinden!",
+            "ITA": "Direi che è il gioco perfetto da abbinare a un buon tè!",
+            "KOR": "이 카드놀이를 하면서 차도 마시면 더 좋겠는데!",
+            "THAI": "เราจะต้องจับเกมไพ่นี้ไปเล่นคู่กับเวลาน้ำชา!",
+            "MY": "Kita betul-betul perlu bermain kad ini semasa sesi minum teh!"
+        },
+        {
             "ID": "Moca_3_INTRO_0",
             "EN": "Next! ",
             "SP": "¡Siguiente!",
@@ -3857,7 +3905,71 @@
             "MY": "Umm... okey..."
         },
         {
-            "ID": "Moca_2_YES",
+            "ID": "MocaEatingCCake_0_INTRO_0",
+            "EN": "I wonder if there are any eggs hidden in the Kyudojo. . .",
+            "SP": "",
+            "FR": "",
+            "ptBR": "",
+            "RU": "",
+            "CNSimplified": "",
+            "CNTaiwan": "",
+            "JPN": "",
+            "GER": "",
+            "ITA": "",
+            "KOR": "",
+            "THAI": "",
+            "MY": ""
+        },
+        {
+            "ID": "MocaEatingCCake_1_INTRO_0",
+            "EN": "The eggs are well hidden this time, almost as good as chameleons!",
+            "SP": "",
+            "FR": "",
+            "ptBR": "",
+            "RU": "",
+            "CNSimplified": "",
+            "CNTaiwan": "",
+            "JPN": "",
+            "GER": "",
+            "ITA": "",
+            "KOR": "",
+            "THAI": "",
+            "MY": ""
+        },
+        {
+            "ID": "MocaEatingCCake_2_INTRO_0",
+            "EN": "Wow that is a rare egg you have.",
+            "SP": "",
+            "FR": "",
+            "ptBR": "",
+            "RU": "",
+            "CNSimplified": "",
+            "CNTaiwan": "",
+            "JPN": "",
+            "GER": "",
+            "ITA": "",
+            "KOR": "",
+            "THAI": "",
+            "MY": ""
+        },
+        {
+            "ID": "MocaEatingCCake_2_INTRO_1",
+            "EN": "Where did you get that?",
+            "SP": "",
+            "FR": "",
+            "ptBR": "",
+            "RU": "",
+            "CNSimplified": "",
+            "CNTaiwan": "",
+            "JPN": "",
+            "GER": "",
+            "ITA": "",
+            "KOR": "",
+            "THAI": "",
+            "MY": ""
+        },
+        {
+            "ID": "MocaEatingCCake_2_YES",
             "EN": "",
             "SP": "",
             "FR": "",
@@ -3873,7 +3985,7 @@
             "MY": ""
         },
         {
-            "ID": "Moca_2_NO",
+            "ID": "MocaEatingCCake_2_NO",
             "EN": "",
             "SP": "",
             "FR": "",
@@ -3889,7 +4001,7 @@
             "MY": ""
         },
         {
-            "ID": "Moca_2_YESRESPONSE_0",
+            "ID": "MocaEatingCCake_2_YESRESPONSE_0",
             "EN": "So far??!!!",
             "SP": "",
             "FR": "",
@@ -3905,7 +4017,7 @@
             "MY": ""
         },
         {
-            "ID": "Moca_2_NORESPONSE_0",
+            "ID": "MocaEatingCCake_2_NORESPONSE_0",
             "EN": "",
             "SP": "",
             "FR": "",
@@ -4113,7 +4225,55 @@
             "MY": "Setiap item unik! Saya harap awak akan kembali dan membeli brang lain daripada saya!"
         },
         {
-            "ID": "Chi_2_INTRO_1",
+            "ID": "ChiEatingCake_0_INTRO_0",
+            "EN": "Mmm. . these are delicious!",
+            "SP": "",
+            "FR": "",
+            "ptBR": "",
+            "RU": "",
+            "CNSimplified": "",
+            "CNTaiwan": "",
+            "JPN": "",
+            "GER": "",
+            "ITA": "",
+            "KOR": "",
+            "THAI": "",
+            "MY": ""
+        },
+        {
+            "ID": "ChiEatingCake_1_INTRO_0",
+            "EN": "All of these are so sweet!",
+            "SP": "",
+            "FR": "",
+            "ptBR": "",
+            "RU": "",
+            "CNSimplified": "",
+            "CNTaiwan": "",
+            "JPN": "",
+            "GER": "",
+            "ITA": "",
+            "KOR": "",
+            "THAI": "",
+            "MY": ""
+        },
+        {
+            "ID": "ChiEatingCake_2_INTRO_0",
+            "EN": "I heard Nugget even hid the egg up in the Yukiyama Mountain!! ",
+            "SP": "",
+            "FR": "",
+            "ptBR": "",
+            "RU": "",
+            "CNSimplified": "",
+            "CNTaiwan": "",
+            "JPN": "",
+            "GER": "",
+            "ITA": "",
+            "KOR": "",
+            "THAI": "",
+            "MY": ""
+        },
+        {
+            "ID": "ChiEatingCake_2_INTRO_1",
             "EN": "That's absurd!!",
             "SP": "",
             "FR": "",
@@ -4129,7 +4289,7 @@
             "MY": ""
         },
         {
-            "ID": "Moca_0_INTRO_0",
+            "ID": "MocaEatingCake_0_INTRO_0",
             "EN": "This is delicious!! ",
             "SP": "",
             "FR": "",
@@ -4145,7 +4305,7 @@
             "MY": ""
         },
         {
-            "ID": "Moca_1_INTRO_0",
+            "ID": "MocaEatingCake_1_INTRO_0",
             "EN": "How many eggs have you found?",
             "SP": "",
             "FR": "",
@@ -4161,7 +4321,7 @@
             "MY": ""
         },
         {
-            "ID": "Moca_1_INTRO_1",
+            "ID": "MocaEatingCake_1_INTRO_1",
             "EN": "Haha! I bet I have more than you!",
             "SP": "",
             "FR": "",
@@ -4177,7 +4337,7 @@
             "MY": ""
         },
         {
-            "ID": "Moca_2_INTRO_0",
+            "ID": "MocaEatingCake_2_INTRO_0",
             "EN": "I found one Easter Egg at the Train Station. But I could not reach it.",
             "SP": "",
             "FR": "",
@@ -4193,7 +4353,7 @@
             "MY": ""
         },
         {
-            "ID": "Moca_2_INTRO_1",
+            "ID": "MocaEatingCake_2_INTRO_1",
             "EN": "Oh! I should not have said that.",
             "SP": "",
             "FR": "",
@@ -4209,7 +4369,7 @@
             "MY": ""
         },
         {
-            "ID": "Chi_0_INTRO_0",
+            "ID": "ChiEatingHotBun_0_INTRO_0",
             "EN": "Mmm I cannot get enough of these treats.",
             "SP": "",
             "FR": "",
@@ -4225,7 +4385,7 @@
             "MY": ""
         },
         {
-            "ID": "Chi_1_INTRO_0",
+            "ID": "ChiEatingHotBun_1_INTRO_0",
             "EN": "I always get fatter after all these holidays.",
             "SP": "",
             "FR": "",
@@ -4241,7 +4401,7 @@
             "MY": ""
         },
         {
-            "ID": "Chi_2_INTRO_0",
+            "ID": "ChiEatingHotBun_2_INTRO_0",
             "EN": "Where you got this purple looking one??!!",
             "SP": "",
             "FR": "",
@@ -4257,7 +4417,7 @@
             "MY": ""
         },
         {
-            "ID": "Chi_2_YES",
+            "ID": "ChiEatingHotBun_2_YES",
             "EN": "From The Great City",
             "SP": "",
             "FR": "",
@@ -4273,7 +4433,7 @@
             "MY": ""
         },
         {
-            "ID": "Chi_2_NO",
+            "ID": "ChiEatingHotBun_2_NO",
             "EN": "From Yukiyama",
             "SP": "",
             "FR": "",
@@ -4289,7 +4449,7 @@
             "MY": ""
         },
         {
-            "ID": "Chi_2_YESRESPONSE_0",
+            "ID": "ChiEatingHotBun_2_YESRESPONSE_0",
             "EN": "So far??!!!",
             "SP": "",
             "FR": "",
@@ -4305,7 +4465,7 @@
             "MY": ""
         },
         {
-            "ID": "Chi_2_NORESPONSE_0",
+            "ID": "ChiEatingHotBun_2_NORESPONSE_0",
             "EN": "That's Crazy!!! ",
             "SP": "",
             "FR": "",
