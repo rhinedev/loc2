@@ -1,7 +1,103 @@
 {
     "texts": [
         {
-            "ID": "Bus Dialogue_0_INTRO_0",
+            "ID": "TrainDialogue_0_INTRO_0",
+            "EN": "Only {0} hours and {1} minutes left till we reach Mushroom Village!",
+            "SP": "",
+            "FR": "",
+            "ptBR": "",
+            "RU": "",
+            "CNSimplified": "",
+            "CNTaiwan": "",
+            "JPN": "",
+            "GER": "",
+            "ITA": "",
+            "KOR": "",
+            "THAI": "",
+            "MY": ""
+        },
+        {
+            "ID": "TrainDialogue_1_INTRO_0",
+            "EN": "Only {0} minutes left till we reach Mushroom Village!",
+            "SP": "",
+            "FR": "",
+            "ptBR": "",
+            "RU": "",
+            "CNSimplified": "",
+            "CNTaiwan": "",
+            "JPN": "",
+            "GER": "",
+            "ITA": "",
+            "KOR": "",
+            "THAI": "",
+            "MY": ""
+        },
+        {
+            "ID": "TrainDialogue_2_INTRO_0",
+            "EN": "We'll arrive at our destination shortly!",
+            "SP": "",
+            "FR": "",
+            "ptBR": "",
+            "RU": "",
+            "CNSimplified": "",
+            "CNTaiwan": "",
+            "JPN": "",
+            "GER": "",
+            "ITA": "",
+            "KOR": "",
+            "THAI": "",
+            "MY": ""
+        },
+        {
+            "ID": "BusOut Dialogue_0_INTRO_0",
+            "EN": "Only {0} hours and {1} minutes left till we reach Mushroom Village!",
+            "SP": "",
+            "FR": "",
+            "ptBR": "",
+            "RU": "",
+            "CNSimplified": "",
+            "CNTaiwan": "",
+            "JPN": "",
+            "GER": "",
+            "ITA": "",
+            "KOR": "",
+            "THAI": "",
+            "MY": ""
+        },
+        {
+            "ID": "BusOut Dialogue_1_INTRO_0",
+            "EN": "Only {0} minutes left till we reach Mushroom Village!",
+            "SP": "",
+            "FR": "",
+            "ptBR": "",
+            "RU": "",
+            "CNSimplified": "",
+            "CNTaiwan": "",
+            "JPN": "",
+            "GER": "",
+            "ITA": "",
+            "KOR": "",
+            "THAI": "",
+            "MY": ""
+        },
+        {
+            "ID": "BusOut Dialogue_2_INTRO_0",
+            "EN": "We're almost there!",
+            "SP": "",
+            "FR": "",
+            "ptBR": "",
+            "RU": "",
+            "CNSimplified": "",
+            "CNTaiwan": "",
+            "JPN": "",
+            "GER": "",
+            "ITA": "",
+            "KOR": "",
+            "THAI": "",
+            "MY": ""
+        },
+        {
+            "ID": "BusIn Dialogue_0_INTRO_0",
             "EN": "Only {0} hours and {1} minutes left till we reach Yukiyama!",
             "SP": "",
             "FR": "",
@@ -17,7 +113,7 @@
             "MY": ""
         },
         {
-            "ID": "Bus Dialogue_1_INTRO_0",
+            "ID": "BusIn Dialogue_1_INTRO_0",
             "EN": "Only {0} minutes left till we reach Yukiyama!",
             "SP": "",
             "FR": "",
@@ -33,7 +129,7 @@
             "MY": ""
         },
         {
-            "ID": "Bus Dialogue_2_INTRO_0",
+            "ID": "BusIn Dialogue_2_INTRO_0",
             "EN": "We're almost there!",
             "SP": "",
             "FR": "",
@@ -6929,7 +7025,7 @@
             "MY": ""
         },
         {
-            "ID": "TrainDialogue_0_INTRO_0",
+            "ID": "TrainOut Dialogue_0_INTRO_0",
             "EN": "Only {0} hours and {1} minutes left till we reach The Great City!",
             "SP": "",
             "FR": "",
@@ -6945,7 +7041,7 @@
             "MY": ""
         },
         {
-            "ID": "TrainDialogue_1_INTRO_0",
+            "ID": "TrainOut Dialogue_1_INTRO_0",
             "EN": "Only {0} minutes left till we reach The Great City!",
             "SP": "",
             "FR": "",
@@ -6961,7 +7057,7 @@
             "MY": ""
         },
         {
-            "ID": "TrainDialogue_2_INTRO_0",
+            "ID": "TrainOut Dialogue_2_INTRO_0",
             "EN": "We'll arrive at our destination shortly!",
             "SP": "",
             "FR": "",
