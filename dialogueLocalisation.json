@@ -3041,7 +3041,7 @@
             "MY": ""
         },
         {
-            "ID": "Chi _0_INTRO_0",
+            "ID": "ChiWitch _0_INTRO_0",
             "EN": "Nyeh-heh! Brimstone and brandy, surrender your candy! It's trick or treat, Tsuki!",
             "SP": "",
             "FR": "",
@@ -3057,7 +3057,7 @@
             "MY": ""
         },
         {
-            "ID": "Chi _0_YES",
+            "ID": "ChiWitch _0_YES",
             "EN": "(Treat) Give candy.",
             "SP": "",
             "FR": "",
@@ -3073,7 +3073,7 @@
             "MY": ""
         },
         {
-            "ID": "Chi _0_NO",
+            "ID": "ChiWitch _0_NO",
             "EN": "(Trick) Refuse.",
             "SP": "",
             "FR": "",
@@ -3089,7 +3089,7 @@
             "MY": ""
         },
         {
-            "ID": "Chi _0_YESRESPONSE_0",
+            "ID": "ChiWitch _0_YESRESPONSE_0",
             "EN": "Ohh!! Thank you Tsuki!! ",
             "SP": "",
             "FR": "",
@@ -3105,7 +3105,7 @@
             "MY": ""
         },
         {
-            "ID": "Chi _0_NORESPONSE_0",
+            "ID": "ChiWitch _0_NORESPONSE_0",
             "EN": "Curses.. It seems my bewitching charms aren't powerful enough...",
             "SP": "",
             "FR": "",
@@ -3121,7 +3121,7 @@
             "MY": ""
         },
         {
-            "ID": "Chi _1_INTRO_0",
+            "ID": "ChiWitch _1_INTRO_0",
             "EN": "Abra Cadabra, accio candy! Trick or treat Tsuki!",
             "SP": "",
             "FR": "",
@@ -3137,7 +3137,7 @@
             "MY": ""
         },
         {
-            "ID": "Chi _1_YES",
+            "ID": "ChiWitch _1_YES",
             "EN": "(Treat) Give candy.",
             "SP": "",
             "FR": "",
@@ -3153,7 +3153,7 @@
             "MY": ""
         },
         {
-            "ID": "Chi _1_NO",
+            "ID": "ChiWitch _1_NO",
             "EN": "(Trick) Refuse.",
             "SP": "",
             "FR": "",
@@ -3169,7 +3169,7 @@
             "MY": ""
         },
         {
-            "ID": "Chi _1_YESRESPONSE_0",
+            "ID": "ChiWitch _1_YESRESPONSE_0",
             "EN": "Nyeh-heh, I knew my magic spellbook wouldn't fail me. Thanks Tsuki!",
             "SP": "",
             "FR": "",
@@ -3185,7 +3185,7 @@
             "MY": ""
         },
         {
-            "ID": "Chi _1_NORESPONSE_0",
+            "ID": "ChiWitch _1_NORESPONSE_0",
             "EN": "How are you immune to my magic! Are you some sort of powerful sorcerer?",
             "SP": "",
             "FR": "",
@@ -3201,7 +3201,7 @@
             "MY": ""
         },
         {
-            "ID": "Chi _2_INTRO_0",
+            "ID": "ChiWitch _2_INTRO_0",
             "EN": "Hehehe! Give me some candy Tsuki, or I'll turn you into a frog! It's trick or treat!",
             "SP": "",
             "FR": "",
@@ -3217,7 +3217,7 @@
             "MY": ""
         },
         {
-            "ID": "Chi _2_YES",
+            "ID": "ChiWitch _2_YES",
             "EN": "(Treat) Give candy.",
             "SP": "",
             "FR": "",
@@ -3233,7 +3233,7 @@
             "MY": ""
         },
         {
-            "ID": "Chi _2_NO",
+            "ID": "ChiWitch _2_NO",
             "EN": "(Trick) Refuse.",
             "SP": "",
             "FR": "",
@@ -3249,7 +3249,7 @@
             "MY": ""
         },
         {
-            "ID": "Chi _2_YESRESPONSE_0",
+            "ID": "ChiWitch _2_YESRESPONSE_0",
             "EN": "Nyeh heh heh! Thanks for the candy Tsuki! ",
             "SP": "",
             "FR": "",
@@ -3265,7 +3265,7 @@
             "MY": ""
         },
         {
-            "ID": "Chi _2_NORESPONSE_0",
+            "ID": "ChiWitch _2_NORESPONSE_0",
             "EN": "Rats.. you called my bluff... well played Tsuki.. Well played..",
             "SP": "",
             "FR": "",
@@ -3825,7 +3825,7 @@
             "MY": ""
         },
         {
-            "ID": "Pipi_0_INTRO_0",
+            "ID": "PipiGhost_0_INTRO_0",
             "EN": "Boo!! I am a spoOoOky ghost!! Trick or treat Tsuki, I would like some candy please!",
             "SP": "",
             "FR": "",
@@ -3841,7 +3841,7 @@
             "MY": ""
         },
         {
-            "ID": "Pipi_0_YES",
+            "ID": "PipiGhost_0_YES",
             "EN": "(Treat) Give candy.",
             "SP": "",
             "FR": "",
@@ -3857,7 +3857,7 @@
             "MY": ""
         },
         {
-            "ID": "Pipi_0_NO",
+            "ID": "PipiGhost_0_NO",
             "EN": "(Trick) Refuse.",
             "SP": "",
             "FR": "",
@@ -3873,7 +3873,7 @@
             "MY": ""
         },
         {
-            "ID": "Pipi_0_YESRESPONSE_0",
+            "ID": "PipiGhost_0_YESRESPONSE_0",
             "EN": "Yay!! Thank you Tsuki!! I love candy!!",
             "SP": "",
             "FR": "",
@@ -3889,7 +3889,7 @@
             "MY": ""
         },
         {
-            "ID": "Pipi_0_NORESPONSE_0",
+            "ID": "PipiGhost_0_NORESPONSE_0",
             "EN": "Oh.. *sniff* o-okay...",
             "SP": "",
             "FR": "",
@@ -3905,7 +3905,7 @@
             "MY": ""
         },
         {
-            "ID": "Pipi_1_INTRO_0",
+            "ID": "PipiGhost_1_INTRO_0",
             "EN": "Spooky and scary!\nMay I have some candy please?\nTrick or treat, Tsuki!",
             "SP": "",
             "FR": "",
@@ -3921,7 +3921,7 @@
             "MY": ""
         },
         {
-            "ID": "Pipi_1_YES",
+            "ID": "PipiGhost_1_YES",
             "EN": "(Treat) Give candy.",
             "SP": "",
             "FR": "",
@@ -3937,7 +3937,7 @@
             "MY": ""
         },
         {
-            "ID": "Pipi_1_NO",
+            "ID": "PipiGhost_1_NO",
             "EN": "(Trick) Refuse.",
             "SP": "",
             "FR": "",
@@ -3953,7 +3953,7 @@
             "MY": ""
         },
         {
-            "ID": "Pipi_1_YESRESPONSE_0",
+            "ID": "PipiGhost_1_YESRESPONSE_0",
             "EN": "Yay it worked!! Moc- I mean.. the mysterious ninja was right!! Haikus are fun!",
             "SP": "",
             "FR": "",
@@ -3969,7 +3969,7 @@
             "MY": ""
         },
         {
-            "ID": "Pipi_1_YESRESPONSE_1",
+            "ID": "PipiGhost_1_YESRESPONSE_1",
             "EN": "Thank you for the candy Tsuki!!",
             "SP": "",
             "FR": "",
@@ -3985,7 +3985,7 @@
             "MY": ""
         },
         {
-            "ID": "Pipi_1_NORESPONSE_0",
+            "ID": "PipiGhost_1_NORESPONSE_0",
             "EN": "B-but.. *sniff* I made a haiku.. *sniff*",
             "SP": "",
             "FR": "",
@@ -4001,7 +4001,7 @@
             "MY": ""
         },
         {
-            "ID": "Pipi_2_INTRO_0",
+            "ID": "PipiGhost_2_INTRO_0",
             "EN": "Hi Tsuki!!! Sorry if I disturbed you, but trick or treat!! May I have some candy please?",
             "SP": "",
             "FR": "",
@@ -4017,7 +4017,7 @@
             "MY": ""
         },
         {
-            "ID": "Pipi_2_YES",
+            "ID": "PipiGhost_2_YES",
             "EN": "(Treat) Give candy.",
             "SP": "",
             "FR": "",
@@ -4033,7 +4033,7 @@
             "MY": ""
         },
         {
-            "ID": "Pipi_2_NO",
+            "ID": "PipiGhost_2_NO",
             "EN": "(Trick) Refuse.",
             "SP": "",
             "FR": "",
@@ -4049,7 +4049,7 @@
             "MY": ""
         },
         {
-            "ID": "Pipi_2_YESRESPONSE_0",
+            "ID": "PipiGhost_2_YESRESPONSE_0",
             "EN": "Ohh thank you Tsuki!! You're so sweet like candy! Hehe.",
             "SP": "",
             "FR": "",
@@ -4065,7 +4065,7 @@
             "MY": ""
         },
         {
-            "ID": "Pipi_2_NORESPONSE_0",
+            "ID": "PipiGhost_2_NORESPONSE_0",
             "EN": "*sniff* ...okay... *sniff*",
             "SP": "",
             "FR": "",
