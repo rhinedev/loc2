@@ -353,20 +353,20 @@
             "MY": ""
         },
         {
-            "ID": "",
+            "ID": "CHAR_PIPI",
             "EN": "Pipi",
-            "SP": "",
+            "SP": "Pipi",
             "FR": "",
             "ptBR": "",
-            "RU": "",
-            "CNSimplified": "",
-            "CNTaiwan": "",
-            "JPN": "",
+            "RU": "Фифи",
+            "CNSimplified": "皮皮",
+            "CNTaiwan": "皮皮",
+            "JPN": "ピピ",
             "GER": "",
             "ITA": "",
-            "KOR": "",
-            "THAI": "",
-            "MY": ""
+            "KOR": "피피",
+            "THAI": "พีพี",
+            "MY": "Pipi"
         },
         {
             "ID": "CHAR_MASAKO",
