@@ -4834,7 +4834,7 @@
         },
         {
             "ID": "Rinnie_0_INTRO_1",
-            "EN": "I don't believe I've had the pleasure- I'm Rinnie.\r Nice to meet you.",
+            "EN": "I don't believe I've had the pleasure- I'm Rinnie. Nice to meet you.",
             "SP": "",
             "FR": "",
             "ptBR": "",
@@ -4866,7 +4866,7 @@
         },
         {
             "ID": "Rinnie_0_YESRESPONSE_0",
-            "EN": "Ah yes... yes.. Tsuki. The name does ring a bell. I've seen you around before. \r\nWhy don't you check out my store, see what goodies I have to offer? ",
+            "EN": "Ah yes... yes.. Tsuki. The name does ring a bell. I've seen you around before. \nWhy don't you check out my store, see what goodies I have to offer? ",
             "SP": "",
             "FR": "",
             "ptBR": "",
@@ -4882,7 +4882,7 @@
         },
         {
             "ID": "Rinnie_1_INTRO_0",
-            "EN": "Ah, I almost forgot. Here, I believe you'll want this. \r",
+            "EN": "Ah, I almost forgot. Here, I believe you'll want this.",
             "SP": "",
             "FR": "",
             "ptBR": "",
