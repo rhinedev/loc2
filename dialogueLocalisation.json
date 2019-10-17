@@ -14625,6 +14625,38 @@
             "MY": ""
         },
         {
+            "ID": "Chi_PumpkinPie_0_INTRO_0",
+            "EN": "You really can't have halloween without pumpkin pie hehe.",
+            "SP": "",
+            "FR": "",
+            "ptBR": "",
+            "RU": "",
+            "CNSimplified": "",
+            "CNTaiwan": "",
+            "JPN": "",
+            "GER": "",
+            "ITA": "",
+            "KOR": "",
+            "THAI": "",
+            "MY": ""
+        },
+        {
+            "ID": "Chi_PumpkinPie_1_INTRO_0",
+            "EN": "Hey Tsuki, do you know what you get when you divide a pumpkin's circumference by it's diameter?",
+            "SP": "",
+            "FR": "",
+            "ptBR": "",
+            "RU": "",
+            "CNSimplified": "",
+            "CNTaiwan": "",
+            "JPN": "",
+            "GER": "",
+            "ITA": "",
+            "KOR": "",
+            "THAI": "",
+            "MY": ""
+        },
+        {
             "ID": "Chi_PumpkinPie_1_YES",
             "EN": "I don't know.",
             "SP": "",
@@ -14643,6 +14675,38 @@
         {
             "ID": "Chi_PumpkinPie_1_YESRESPONSE_0",
             "EN": "You get pumpkin pi! Hehe~",
+            "SP": "",
+            "FR": "",
+            "ptBR": "",
+            "RU": "",
+            "CNSimplified": "",
+            "CNTaiwan": "",
+            "JPN": "",
+            "GER": "",
+            "ITA": "",
+            "KOR": "",
+            "THAI": "",
+            "MY": ""
+        },
+        {
+            "ID": "Chi_PumpkinPie_2_INTRO_0",
+            "EN": "This pumpkin pie is so fudgy that I can pick it up with my chopsticks!",
+            "SP": "",
+            "FR": "",
+            "ptBR": "",
+            "RU": "",
+            "CNSimplified": "",
+            "CNTaiwan": "",
+            "JPN": "",
+            "GER": "",
+            "ITA": "",
+            "KOR": "",
+            "THAI": "",
+            "MY": ""
+        },
+        {
+            "ID": "Chi_PumpkinPie_3_INTRO_0",
+            "EN": "Having toasted meringue on pumpkin pie is awesome!! Thanks for sharing this with us Tsuki.",
             "SP": "",
             "FR": "",
             "ptBR": "",
@@ -15201,7 +15265,7 @@
             "MY": ""
         },
         {
-            "ID": "Chi_PumpkinPie_0_INTRO_0",
+            "ID": "Chi_PanDeMurtos_0_INTRO_0",
             "EN": "Oh, apparently the circle shape on this bun represents the circle of life!",
             "SP": "",
             "FR": "",
@@ -15217,7 +15281,7 @@
             "MY": ""
         },
         {
-            "ID": "Chi_PumpkinPie_0_INTRO_1",
+            "ID": "Chi_PanDeMurtos_0_INTRO_1",
             "EN": "What an interesting piece of bread.",
             "SP": "",
             "FR": "",
@@ -15233,7 +15297,7 @@
             "MY": ""
         },
         {
-            "ID": "Chi_PumpkinPie_1_INTRO_0",
+            "ID": "Chi_PanDeMurtos_1_INTRO_0",
             "EN": "Yumm... I think I taste a hint of aniseed.",
             "SP": "",
             "FR": "",
@@ -15249,7 +15313,7 @@
             "MY": ""
         },
         {
-            "ID": "Chi_PumpkinPie_2_INTRO_0",
+            "ID": "Chi_PanDeMurtos_2_INTRO_0",
             "EN": "For something that's made as an offering, this is suprisingly full of life and flavor! ",
             "SP": "",
             "FR": "",
@@ -15265,7 +15329,7 @@
             "MY": ""
         },
         {
-            "ID": "Chi_PumpkinPie_3_INTRO_0",
+            "ID": "Chi_PanDeMurtos_3_INTRO_0",
             "EN": "This bread has such a delicious aroma it makes my mouth water.",
             "SP": "",
             "FR": "",
