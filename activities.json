@@ -1,0 +1,2615 @@
+{
+    "activities": [
+        {
+            "name": "0)Sleeping_home",
+            "time": "8pm-12am, 12am-6am",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "1)DrinkingTea _Home",
+            "time": "7am-11am, 2pm-5pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "2)SweepingFloor_Home",
+            "time": "7am-11am, 1pm-7pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "3)DoingLaundry_ Home",
+            "time": "7am-10am, 1pm-3pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "None!",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "4)Skipping_Home",
+            "time": "6am-11am, 1pm-7pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Skipping Rope",
+            "activityLength": "3 minutes"
+        },
+        {
+            "name": "5)ChiVisiting_Home",
+            "time": "10am-12pm, 1pm-6pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Carrot Chips",
+            "activityLength": "60 minutes"
+        },
+        {
+            "name": "6)Bathing_Home",
+            "time": "6am-11am, 1pm-10pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Rubber Duckling",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "7)ReadingBook_Home",
+            "time": "7am-11am, 12pm-10pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Lord of the Carrots",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "8)EatingChips_home",
+            "time": "7am-10pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Carrot Chips",
+            "activityLength": "5 minutes"
+        },
+        {
+            "name": "9)MovieGathering_Home",
+            "time": "8pm-9pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "TV Set",
+            "activityLength": "120 minutes"
+        },
+        {
+            "name": "10)PlayingUkulele_home",
+            "time": "7am-11am, 1pm-10pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Carrot Ukulele",
+            "activityLength": "10 minutes"
+        },
+        {
+            "name": "11)Chilling_EventSquare",
+            "time": "24h(nonrollable)",
+            "location": "MushroomVillage_EventSquare",
+            "itemsNeeded": "None!",
+            "activityLength": "5 minutes"
+        },
+        {
+            "name": "12)UsingPhone_Home",
+            "time": "10pm-12am, 6am-8am",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "cPhone XS Mini Max Plus",
+            "activityLength": "40 minutes"
+        },
+        {
+            "name": "13)PlayingLaptop_Home",
+            "time": "6pm-12am, 12am-3am",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Carrot Book Pro",
+            "activityLength": "60 minutes"
+        },
+        {
+            "name": "14)CheckingMailBox_HOme",
+            "time": "6am-10am",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "None!",
+            "activityLength": "0 minutes"
+        },
+        {
+            "name": "15)TsukiWatchingTV_Home",
+            "time": "2pm-6pm, 7pm-12am",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "TV Set",
+            "activityLength": "60 minutes"
+        },
+        {
+            "name": "16)EatingCupNoodle_Home",
+            "time": "8pm-12am, 12am-1am",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Spicy Curry Noodle",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "17)EatingRiceBall_Home",
+            "time": "6am-8am, 1pm-2pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Carrot Onigiri",
+            "activityLength": "1 minutes"
+        },
+        {
+            "name": "18)ListeningMusic_Home",
+            "time": "7pm-12am, 12am-2am",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Ceats Headset",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "19)ReadingBook2_Home",
+            "time": "2pm-6pm, 8pm-11pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Lord of the Carrots 2",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "20)WateringPlant_Home",
+            "time": "7am-8am",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "None!",
+            "activityLength": "3 minutes"
+        },
+        {
+            "name": "21)Shopping_Village",
+            "time": "8am-11am, 1pm-9pm",
+            "location": "MushroomVillage_TownHub",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "22)DrinkingTea_Village",
+            "time": "9am-12pm, 1pm-4pm",
+            "location": "MushroomVillage_TownHub",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "23)LookingAtPoster_Village",
+            "time": "7am-11am, 9pm-12am",
+            "location": "MushroomVillage_TownHub",
+            "itemsNeeded": "None!",
+            "activityLength": "5 minutes"
+        },
+        {
+            "name": "24)Moca&Chi&TsukiDrinkingTea_Village",
+            "time": "9am-12pm, 1pm-4pm",
+            "location": "MushroomVillage_TownHub",
+            "itemsNeeded": "None!",
+            "activityLength": "60 minutes"
+        },
+        {
+            "name": "25)Chi&TsukiDrinkingTea_village",
+            "time": "9am-12pm, 1pm-4pm",
+            "location": "MushroomVillage_TownHub",
+            "itemsNeeded": "None!",
+            "activityLength": "45 minutes"
+        },
+        {
+            "name": "26)ShootingArrow_Kyudo",
+            "time": "8am-12pm",
+            "location": "MushroomVillage_Kyudo",
+            "itemsNeeded": "Bullseye",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "27)WoodenSwordSlash_Kyudo",
+            "time": "8am-12pm",
+            "location": "MushroomVillage_Kyudo",
+            "itemsNeeded": "None!",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "28)LongPoleStrike_Kyudo",
+            "time": "8am-12pm",
+            "location": "MushroomVillage_Kyudo",
+            "itemsNeeded": "None!",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "29)ShortPoleStrike_Kyudo",
+            "time": "8am-12pm",
+            "location": "MushroomVillage_Kyudo",
+            "itemsNeeded": "None!",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "30)CNYEvent_EventSquare",
+            "time": "24h(nonrollable)",
+            "location": "MushroomVillage_EventSquare",
+            "itemsNeeded": "None!",
+            "activityLength": "60 minutes"
+        },
+        {
+            "name": "31)Boxing_Kyudo",
+            "time": "8am-12pm",
+            "location": "MushroomVillage_Kyudo",
+            "itemsNeeded": "Kimbo's Gloves",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "32)Tsuki&MoriDrinkingTea_Home",
+            "time": "24h(nonrollable)",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "None!",
+            "activityLength": "5 minutes"
+        },
+        {
+            "name": "33)TsukiWorkingTeaShop_Village",
+            "time": "9am-4pm",
+            "location": "MushroomVillage_TownHub",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "34)Tsuki&MocaDrinkingTea_Village",
+            "time": "12pm-4pm",
+            "location": "MushroomVillage_TownHub",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "35)TMC_Poker_Home",
+            "time": "4pm-7pm, 8pm-10pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Clive's CarrotCard",
+            "activityLength": "60 minutes"
+        },
+        {
+            "name": "36)TsukiFertlising_Home",
+            "time": "-1am-12am",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "None!",
+            "activityLength": "0 minutes"
+        },
+        {
+            "name": "37)TsukiUnpacking_Home",
+            "time": "24h(nonrollable)",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "None!",
+            "activityLength": "5 minutes"
+        },
+        {
+            "name": "38)TsukiRidingCar",
+            "time": "24h(nonrollable)",
+            "location": "MushroomVillage_TrainOut",
+            "itemsNeeded": "Cazda R8",
+            "activityLength": "60 minutes"
+        },
+        {
+            "name": "39)TsukiCNYLoveLetters",
+            "time": "8am-5pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Love Letters",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "40)TsukiCNYPineappleTarts",
+            "time": "8am-5pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Pineapple Tarts",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "41)Fishing_Lake",
+            "time": "7am-11am, 1pm-9pm",
+            "location": "MushroomVillage_Lake",
+            "itemsNeeded": "Ocean Hunter",
+            "activityLength": "60 minutes"
+        },
+        {
+            "name": "42)Floating_Lake",
+            "time": "7am-11am, 1pm-6pm",
+            "location": "MushroomVillage_Lake",
+            "itemsNeeded": "Ducky Float",
+            "activityLength": "60 minutes"
+        },
+        {
+            "name": "43)Chi&TsukiViewingOcean_Lake",
+            "time": "10am-12pm, 4am-6am",
+            "location": "MushroomVillage_Lake",
+            "itemsNeeded": "None!",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "44)PlayingUkulele_Lake",
+            "time": "7am-11am, 1pm-10pm",
+            "location": "MushroomVillage_Lake",
+            "itemsNeeded": "Carrot Ukulele",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "45)ViewingOcean_Lake",
+            "time": "6am-11am, 1pm-10pm",
+            "location": "MushroomVillage_Lake",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "46)AdmiringWatchTower_lake",
+            "time": "7am-11am, 1pm-6pm",
+            "location": "MushroomVillage_Lake",
+            "itemsNeeded": "None!",
+            "activityLength": "5 minutes"
+        },
+        {
+            "name": "47)Yori&TsukiFishing_Lake",
+            "time": "4pm-12am",
+            "location": "MushroomVillage_Lake",
+            "itemsNeeded": "Ocean Hunter",
+            "activityLength": "60 minutes"
+        },
+        {
+            "name": "48)PlayingUkulekeWithChi_Lake",
+            "time": "9am-12pm, 2pm-7pm",
+            "location": "MushroomVillage_Lake",
+            "itemsNeeded": "Carrot Ukulele",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "49)TsukiCNYAlmondTarts",
+            "time": "8am-5pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Almond Cookies",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "50)TsukiCNYPeanutTarts",
+            "time": "8am-5pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Peanut Cookies",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "51)FlyingKite_Garden",
+            "time": "7am-11am, 1pm-6pm",
+            "location": "MushroomVillage_Garden",
+            "itemsNeeded": "Red Butterfly",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "52)CatchingBug_Garden",
+            "time": "6am-11am",
+            "location": "MushroomVillage_Garden",
+            "itemsNeeded": "Monster Catcher",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "53)SLeeping_Garden",
+            "time": "6am-11am, 1pm-7pm",
+            "location": "MushroomVillage_Garden",
+            "itemsNeeded": "None!",
+            "activityLength": "60 minutes"
+        },
+        {
+            "name": "54)PlayingUkulele_Garden",
+            "time": "7am-11am, 1pm-7pm",
+            "location": "MushroomVillage_Garden",
+            "itemsNeeded": "Carrot Ukulele",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "55)ReadingBook_Garden",
+            "time": "7am-11am, 1pm-7pm",
+            "location": "MushroomVillage_Garden",
+            "itemsNeeded": "Lord of the Carrots",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "56)FlyingKiteWithChi_Garden",
+            "time": "9am-12pm, 5pm-7pm",
+            "location": "MushroomVillage_Garden",
+            "itemsNeeded": "Red Butterfly",
+            "activityLength": "40 minutes"
+        },
+        {
+            "name": "57)SpinTop_Garden",
+            "time": "8am-12pm",
+            "location": "MushroomVillage_Garden",
+            "itemsNeeded": "Dragon Spinner",
+            "activityLength": "10 minutes"
+        },
+        {
+            "name": "58)PaddleBalling_Garden",
+            "time": "8am-12pm, 2pm-6pm",
+            "location": "MushroomVillage_Garden",
+            "itemsNeeded": "Challenger",
+            "activityLength": "10 minutes"
+        },
+        {
+            "name": "59)BlowBubble_Garden",
+            "time": "9am-12pm, 2pm-4pm",
+            "location": "MushroomVillage_Garden",
+            "itemsNeeded": "Bubble Blower",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "60)Painting_Gadren",
+            "time": "9am-11am",
+            "location": "MushroomVillage_Garden",
+            "itemsNeeded": "Pakku's Brush",
+            "activityLength": "60 minutes"
+        },
+        {
+            "name": "61)TCM_CNYLoveLetters",
+            "time": "8am-5pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Love Letters",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "62)EatingMaggie_Home",
+            "time": "11am-1pm, 6pm-8pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Cup Noodle",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "63)TCM_CNYTarts",
+            "time": "24h(nonrollable)",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Pineapple Tarts",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "64)EatingRice_Home",
+            "time": "11am-1pm, 6pm-8pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "65)EatingRamen_Village",
+            "time": "11am-1pm, 6pm-8pm",
+            "location": "MushroomVillage_TownHub",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "66)EatingGrossRamen_Village",
+            "time": "24h(nonrollable)",
+            "location": "MushroomVillage_TownHub",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "67)TsukiStarGazing_Home",
+            "time": "8pm-12am, 12am-3am",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "68)TsukiStarGazingWIthUkulele",
+            "time": "8pm-12am, 12am-3am",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Carrot Ukulele",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "69)TsukiCNYLionDance",
+            "time": "24h(nonrollable)",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "None!",
+            "activityLength": "60 minutes"
+        },
+        {
+            "name": "70)TsukiCNYOranges",
+            "time": "7am-12pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Mandarin Orange",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "71)TsukiDrinkingBeer_Village",
+            "time": "10pm-12am, 12am-5am",
+            "location": "MushroomVillage_TownHub",
+            "itemsNeeded": "None!",
+            "activityLength": "60 minutes"
+        },
+        {
+            "name": "72)TsukiUsingPhone_Village",
+            "time": "10pm-12am, 12am-3am",
+            "location": "MushroomVillage_TownHub",
+            "itemsNeeded": "cPhone XS Mini Max Plus",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "73)TsukiCNYOrangesWMoca",
+            "time": "24h(nonrollable)",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Mandarin Orange",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "74)TsukiCNYFireworks",
+            "time": "8pm-10pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Fireworks",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "75)TsukiShootingWorks_Garden",
+            "time": "9pm-12am, 12am-1am",
+            "location": "MushroomVillage_Garden",
+            "itemsNeeded": "Star Shooter",
+            "activityLength": "10 minutes"
+        },
+        {
+            "name": "76)TMCShootingWorks_Garden",
+            "time": "12am-1am",
+            "location": "MushroomVillage_Garden",
+            "itemsNeeded": "Star Shooter",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "77)TsukiVacuuming",
+            "time": "6am-8am",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Level 3 Expansion, BYSON Vacuum",
+            "activityLength": "5 minutes"
+        },
+        {
+            "name": "78)TsukiLookingDown",
+            "time": "8am-1pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Level 3 Expansion",
+            "activityLength": "5 minutes"
+        },
+        {
+            "name": "79)TsukiSwinging",
+            "time": "11am-6pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Level 3 Expansion, Swing Seat",
+            "activityLength": "10 minutes"
+        },
+        {
+            "name": "80)TsukiDrinkingCoffee",
+            "time": "7am-10am",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Keurug K18",
+            "activityLength": "5 minutes"
+        },
+        {
+            "name": "81)TsukiCooking",
+            "time": "11am-2pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Kitchen Counter",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "82)TsukiWatchingCodak",
+            "time": "7pm-10pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Codak 35mm",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "83)TsukiChillLOTC1",
+            "time": "6am-9am",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Lord of the Carrots, ~The Chill Zone~",
+            "activityLength": "15 minutes"
+        },
+        {
+            "name": "84)TsukiChillLOTC2",
+            "time": "9am-12pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "~The Chill Zone~, Lord of the Carrots 2",
+            "activityLength": "15 minutes"
+        },
+        {
+            "name": "85)TsukiChillLOTC3",
+            "time": "3pm-7pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "~The Chill Zone~, Lord of the Carrots 3",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "86)TCMWatchingCodak",
+            "time": "8pm-12am",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Codak 35mm",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "87)TsukiPlayingCB_ChillZone",
+            "time": "7am-1pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "~The Chill Zone~, CarrotBoy",
+            "activityLength": "15 minutes"
+        },
+        {
+            "name": "88)TsukiSleeping_ChillZone",
+            "time": "2pm-12am",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "~The Chill Zone~",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "89)TsukiPinwheeling",
+            "time": "7am-12pm",
+            "location": "MushroomVillage_Garden",
+            "itemsNeeded": "Pinwheel",
+            "activityLength": "12 minutes"
+        },
+        {
+            "name": "90)TsukiDancingSprinkler",
+            "time": "8am-11am",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Irrigation Pro Ultra",
+            "activityLength": "15 minutes"
+        },
+        {
+            "name": "91)TsukiEatingPocky_YVLodge",
+            "time": "12pm-4pm",
+            "location": "Yukiyama_Lodge",
+            "itemsNeeded": "Pucky",
+            "activityLength": "8 minutes"
+        },
+        {
+            "name": "92)TsukiPlayingKendama",
+            "time": "10am-12pm",
+            "location": "MushroomVillage_Garden",
+            "itemsNeeded": "Kendama",
+            "activityLength": "12 minutes"
+        },
+        {
+            "name": "93)TsukiHidingShoji",
+            "time": "7pm-12am",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Shoji Screen",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "94)TsukiPlayingCB",
+            "time": "2pm-7pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "~The Chill Zone~, CarrotBoy",
+            "activityLength": "0 minutes"
+        },
+        {
+            "name": "95) EatingCarrotCakeMoca_MV",
+            "time": "9am-12pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Carrot Cupcake",
+            "activityLength": "0 minutes"
+        },
+        {
+            "name": "96)EatingHotBunWChi_MV",
+            "time": "7pm-10pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Hot Cross Buns",
+            "activityLength": "0 minutes"
+        },
+        {
+            "name": "97)Chilling_TrainStation",
+            "time": "-1am-12am",
+            "location": "MushroomVillage_TrainStation",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "98)WaitingForTrain_TrainStation",
+            "time": "24h(nonrollable)",
+            "location": "MushroomVillage_TrainStation",
+            "itemsNeeded": "Golden Ticket",
+            "activityLength": "60 minutes"
+        },
+        {
+            "name": "99)TakingTrain_train",
+            "time": "24h(nonrollable)",
+            "location": "MushroomVillage_TrainOut",
+            "itemsNeeded": "None!",
+            "activityLength": "480 minutes"
+        },
+        {
+            "name": "100)Sleeping_CubicleHotel",
+            "time": "12am-12am",
+            "location": "GreatCity_CubicleHotel",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "101)Showering_CubicleHotel",
+            "time": "6am-8am, 10pm-12am",
+            "location": "GreatCity_CubicleHotel",
+            "itemsNeeded": "None!",
+            "activityLength": "5 minutes"
+        },
+        {
+            "name": "102)PlayingPoker_cubicleHotel",
+            "time": "9pm-12am, 12am-2am",
+            "location": "GreatCity_CubicleHotel",
+            "itemsNeeded": "None!",
+            "activityLength": "120 minutes"
+        },
+        {
+            "name": "103)DrinkingWine_CubicleHotel",
+            "time": "9pm-12am, 12am-3am",
+            "location": "GreatCity_CubicleHotel",
+            "itemsNeeded": "None!",
+            "activityLength": "60 minutes"
+        },
+        {
+            "name": "104)ReadingBook_CubicleHotel",
+            "time": "7am-10am, 9pm-12am",
+            "location": "GreatCity_CubicleHotel",
+            "itemsNeeded": "Lord of the Carrots 2",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "105)TsukiWaiting_MVCM",
+            "time": "12am-12am",
+            "location": "MushroomVillage_ClubMoon",
+            "itemsNeeded": "None!",
+            "activityLength": "5 minutes"
+        },
+        {
+            "name": "106)Sleeping_grandHotel",
+            "time": "10pm-6am",
+            "location": "GreatCity_GrandHotel",
+            "itemsNeeded": "None!",
+            "activityLength": "60 minutes"
+        },
+        {
+            "name": "107)SightSeeing_GrandHotel",
+            "time": "9pm-12am, 6am-7am",
+            "location": "GreatCity_GrandHotel",
+            "itemsNeeded": "None!",
+            "activityLength": "10 minutes"
+        },
+        {
+            "name": "108)Bathing_grandHotel",
+            "time": "5am-8am, 10pm-12am",
+            "location": "GreatCity_GrandHotel",
+            "itemsNeeded": "None!",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "109)TsukiDrinkingBeer_YVCM",
+            "time": "8pm-12am, 12am-4am",
+            "location": "Yukiyama_ClubMoon",
+            "itemsNeeded": "Moon Wallpaper",
+            "activityLength": "5 minutes"
+        },
+        {
+            "name": "110)ReadingBook_GrandHotel",
+            "time": "8pm-12am",
+            "location": "GreatCity_GrandHotel",
+            "itemsNeeded": "Lord of the Carrots 2",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "111)EatingRiceBall_GrandHotel",
+            "time": "6am-8am, 6pm-8pm",
+            "location": "GreatCity_GrandHotel",
+            "itemsNeeded": "Carrot Onigiri",
+            "activityLength": "1 minutes"
+        },
+        {
+            "name": "112)EatingMaggie_grandHotel",
+            "time": "8pm-12am, 12am-2am",
+            "location": "GreatCity_GrandHotel",
+            "itemsNeeded": "Spicy Curry Noodle",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "113)EatingGrandHotel",
+            "time": "11am-2pm, 7pm-10pm",
+            "location": "GreatCity_GrandHotel",
+            "itemsNeeded": "None!",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "114)UsingLaptop_GrandHotel",
+            "time": "10pm-12am, 12am-2am",
+            "location": "GreatCity_GrandHotel",
+            "itemsNeeded": "Carrot Book Pro",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "115)UsingPhone_GrandHotel",
+            "time": "9pm-11pm",
+            "location": "GreatCity_GrandHotel",
+            "itemsNeeded": "cPhone XS Mini Max Plus",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "116)UsingPhone_CubicleHotel",
+            "time": "8pm-12am",
+            "location": "GreatCity_CubicleHotel",
+            "itemsNeeded": "cPhone XS Mini Max Plus",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "117)EatingCarrotCake_MV",
+            "time": "9am-12pm, 12pm-3pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Carrot Cupcake",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "118)TCMEatingCake_MV",
+            "time": "1pm-5pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Easter Cake",
+            "activityLength": "60 minutes"
+        },
+        {
+            "name": "119)EatingCake_MV",
+            "time": "9am-12pm, 7pm-11pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Easter Cake",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "120)EatingCookie_MV",
+            "time": "9am-12pm, 3pm-6pm, 8pm-11pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Easter Cookie",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "121)EatingHotCrossBun_MV",
+            "time": "8am-10am",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Hot Cross Buns",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "122)VisitFamilarMart_City",
+            "time": "12am-3am, 7am-12am",
+            "location": "GreatCity_CityHub",
+            "itemsNeeded": "None!",
+            "activityLength": "10 minutes"
+        },
+        {
+            "name": "123)VisitTheGreaTMart_City",
+            "time": "8am-12pm, 2pm-10pm",
+            "location": "GreatCity_CityHub",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "124)LookingAtCar_City",
+            "time": "8am-12pm, 2pm-10pm",
+            "location": "GreatCity_CityHub",
+            "itemsNeeded": "None!",
+            "activityLength": "10 minutes"
+        },
+        {
+            "name": "125)EatingChocoEGG_MV",
+            "time": "12am-12am",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Choco Egg",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "126)EatingCreamCake_MV",
+            "time": "1pm-7pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Cream Cupcake",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "127) PuchasingDrink_City",
+            "time": "10am-8pm",
+            "location": "GreatCity_CityHub",
+            "itemsNeeded": "None!",
+            "activityLength": "0 minutes"
+        },
+        {
+            "name": "128)DrinkingCarrotJuice_MV",
+            "time": "8am-12am",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Carrot Juice",
+            "activityLength": "10 minutes"
+        },
+        {
+            "name": "129)Eating_CityRestaurant",
+            "time": "12pm-2pm, 7pm-9pm",
+            "location": "GreatCity_CityHub",
+            "itemsNeeded": "None!",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "130)ListeningMusic_Mall",
+            "time": "10am-12pm, 2pm-6pm",
+            "location": "GreatCity_Mall",
+            "itemsNeeded": "Ceats Headset",
+            "activityLength": "10 minutes"
+        },
+        {
+            "name": "131)Shopping_Mall",
+            "time": "10am-12pm, 1pm-8pm",
+            "location": "GreatCity_Mall",
+            "itemsNeeded": "None!",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "132)EatingOmellete_Mall",
+            "time": "12pm-1pm, 6pm-8pm",
+            "location": "GreatCity_Mall",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "133)Drinking Desert_Mall",
+            "time": "1pm-2pm, 7pm-9pm",
+            "location": "GreatCity_Mall",
+            "itemsNeeded": "None!",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "134)PlayingArcade_Mall",
+            "time": "2pm-6pm, 8pm-10pm",
+            "location": "GreatCity_Mall",
+            "itemsNeeded": "Arcade VIP Card",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "135)TsukiRacing_Mall",
+            "time": "2pm-6pm, 8pm-10pm",
+            "location": "GreatCity_Mall",
+            "itemsNeeded": "Arcade VIP Card",
+            "activityLength": "5 minutes"
+        },
+        {
+            "name": "136)TsukiPlayingDrum_Mall",
+            "time": "2pm-6pm, 8pm-10pm",
+            "location": "GreatCity_Mall",
+            "itemsNeeded": "Arcade VIP Card",
+            "activityLength": "5 minutes"
+        },
+        {
+            "name": "137)TsukingPunching_Mall",
+            "time": "8pm-10pm, 2pm-4pm",
+            "location": "GreatCity_Mall",
+            "itemsNeeded": "Arcade VIP Card",
+            "activityLength": "5 minutes"
+        },
+        {
+            "name": "138)TsukiRidingBike_Mall",
+            "time": "2pm-6pm, 7pm-10pm",
+            "location": "GreatCity_Mall",
+            "itemsNeeded": "Arcade VIP Card",
+            "activityLength": "5 minutes"
+        },
+        {
+            "name": "139)TsukiRidingSpaceShip",
+            "time": "6pm-10pm",
+            "location": "GreatCity_Mall",
+            "itemsNeeded": "Arcade VIP Card",
+            "activityLength": "5 minutes"
+        },
+        {
+            "name": "140)TsukiEating_YVCM",
+            "time": "12pm-1pm, 7pm-8pm",
+            "location": "Yukiyama_ClubMoon",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "141)Tsuki&KimboHaving Dessert_Mall",
+            "time": "1pm-10pm",
+            "location": "GreatCity_Mall",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "142)TsukiClapping_YVCM",
+            "time": "8pm-12am",
+            "location": "Yukiyama_ClubMoon",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "143)TsukiSleeping_YVCM",
+            "time": "12am-12am",
+            "location": "Yukiyama_ClubMoon",
+            "itemsNeeded": "None!",
+            "activityLength": "60 minutes"
+        },
+        {
+            "name": "144)TsukiPlayingPhone_YVCM",
+            "time": "10am-4pm",
+            "location": "Yukiyama_ClubMoon",
+            "itemsNeeded": "cPhone XS Mini Max Plus",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "145)TsukiViewingDown_YVCM",
+            "time": "9am-12pm, 2pm-6pm",
+            "location": "Yukiyama_ClubMoon",
+            "itemsNeeded": "None!",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "146)TsukiStargazing_YVCM",
+            "time": "5pm-12am, 12am-2am",
+            "location": "Yukiyama_ClubMoon",
+            "itemsNeeded": "Jun's Spy-Eye",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "147)TsukiGambling_YVCM",
+            "time": "12am-12am",
+            "location": "Yukiyama_ClubMoon",
+            "itemsNeeded": "None!",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "148)TsukiPachinko_YVCM",
+            "time": "12am-12am",
+            "location": "Yukiyama_ClubMoon",
+            "itemsNeeded": "None!",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "149)TsukiShowDown_YVCM",
+            "time": "4am-6am",
+            "location": "Yukiyama_ClubMoon",
+            "itemsNeeded": "Katana",
+            "activityLength": "10 minutes"
+        },
+        {
+            "name": "150)TsukiWaitingBus",
+            "time": "24h(nonrollable)",
+            "location": "MushroomVillage_TrainStation",
+            "itemsNeeded": "Yukiyama Ticket",
+            "activityLength": "60 minutes"
+        },
+        {
+            "name": "151)TsukiTakingBus",
+            "time": "24h(nonrollable)",
+            "location": "Yukiyama_BusIn",
+            "itemsNeeded": "None!",
+            "activityLength": "480 minutes"
+        },
+        {
+            "name": "152)TsukiSleeping_YVLodge",
+            "time": "10pm-12am, 12am-7am",
+            "location": "Yukiyama_Lodge",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "153)TsukiUkulele_YVLodge",
+            "time": "9am-11am, 8pm-10pm",
+            "location": "Yukiyama_Lodge",
+            "itemsNeeded": "Carrot Ukulele",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "154)TsukiEatingMaggietype2_YVLodge",
+            "time": "8pm-12am, 12am-1am",
+            "location": "Yukiyama_Lodge",
+            "itemsNeeded": "Spicy Curry Noodle",
+            "activityLength": "10 minutes"
+        },
+        {
+            "name": "155)TsukiEatingMaggie_YVLodge",
+            "time": "8pm-12am, 12am-1am",
+            "location": "Yukiyama_Lodge",
+            "itemsNeeded": "Cup Noodle",
+            "activityLength": "10 minutes"
+        },
+        {
+            "name": "156)TsukiPlayingCarrotBoy_YVlodge",
+            "time": "7am-12pm, 2pm-8pm",
+            "location": "Yukiyama_Lodge",
+            "itemsNeeded": "CarrotBoy",
+            "activityLength": "60 minutes"
+        },
+        {
+            "name": "157)TsukiSoaking_YVLodge",
+            "time": "12am-1am, 7pm-9pm",
+            "location": "Yukiyama_Lodge",
+            "itemsNeeded": "None!",
+            "activityLength": "45 minutes"
+        },
+        {
+            "name": "158)TsukiDrinkingTeaWeasel",
+            "time": "24h(nonrollable)",
+            "location": "Yukiyama_Lodge",
+            "itemsNeeded": "None!",
+            "activityLength": "0 minutes"
+        },
+        {
+            "name": "159)TsukiUsingLaptop_YVLodge",
+            "time": "7am-12pm, 2pm-6pm",
+            "location": "Yukiyama_Lodge",
+            "itemsNeeded": "Carrot Book Pro",
+            "activityLength": "60 minutes"
+        },
+        {
+            "name": "160)TsukiEatingRIce_YVlodge",
+            "time": "12pm-1pm, 7pm-8pm",
+            "location": "Yukiyama_Lodge",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "161)TsukiGettingMassage_YVOnsen",
+            "time": "10am-11pm",
+            "location": "Yukiyama_Onsen",
+            "itemsNeeded": "None!",
+            "activityLength": "60 minutes"
+        },
+        {
+            "name": "162)TsukiSoaking_YVOnsen",
+            "time": "10am-11pm",
+            "location": "Yukiyama_Onsen",
+            "itemsNeeded": "None!",
+            "activityLength": "60 minutes"
+        },
+        {
+            "name": "163)TsukiStarGazing_YVOnsen",
+            "time": "9pm-11pm",
+            "location": "Yukiyama_Onsen",
+            "itemsNeeded": "Jun's Spy-Eye",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "164)TsukiPainting_YVOnsen",
+            "time": "10am-12pm",
+            "location": "Yukiyama_Onsen",
+            "itemsNeeded": "Pakku's Brush",
+            "activityLength": "60 minutes"
+        },
+        {
+            "name": "165)TsukiDrinking_YVVillage",
+            "time": "12pm-1pm, 8pm-12am",
+            "location": "Yukiyama_Village",
+            "itemsNeeded": "None!",
+            "activityLength": "40 minutes"
+        },
+        {
+            "name": "166)TsukiEatingSoba",
+            "time": "6pm-8pm",
+            "location": "Yukiyama_Village",
+            "itemsNeeded": "None!",
+            "activityLength": "45 minutes"
+        },
+        {
+            "name": "167)TsukiWalkingARound_Village",
+            "time": "9am-8pm",
+            "location": "Yukiyama_Village",
+            "itemsNeeded": "Straw Cloak",
+            "activityLength": "10 minutes"
+        },
+        {
+            "name": "168)TsukiShopping_YVvillage",
+            "time": "10am-12pm, 1pm-10pm",
+            "location": "Yukiyama_Village",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "169)TsukiSkipping_YVSnowGround",
+            "time": "6am-8am",
+            "location": "Yukiyama_FishingHole",
+            "itemsNeeded": "Skipping Rope",
+            "activityLength": "10 minutes"
+        },
+        {
+            "name": "170)TsukiBBQ_YVSnowGround",
+            "time": "8pm-11pm",
+            "location": "Yukiyama_FishingHole",
+            "itemsNeeded": "Matchstick",
+            "activityLength": "60 minutes"
+        },
+        {
+            "name": "171)TsukiBoxing_YVSnowGround",
+            "time": "7am-8am",
+            "location": "Yukiyama_FishingHole",
+            "itemsNeeded": "Kimbo's Gloves",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "172)TsukiFishing_YVSnowground",
+            "time": "10am-11pm",
+            "location": "Yukiyama_FishingHole",
+            "itemsNeeded": "Ice Pick",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "173)TsukiBuildingSnowman_YVSnowground",
+            "time": "10am-12pm, 1pm-4pm",
+            "location": "Yukiyama_FishingHole",
+            "itemsNeeded": "None!",
+            "activityLength": "0 minutes"
+        },
+        {
+            "name": "174)TsukiEatingBanana_YVLodge",
+            "time": "7am-8am",
+            "location": "Yukiyama_Lodge",
+            "itemsNeeded": "Jun's Banana",
+            "activityLength": "10 minutes"
+        },
+        {
+            "name": "175)TsukiSnowboarding",
+            "time": "7am-12pm",
+            "location": "Yukiyama_SkiSlope",
+            "itemsNeeded": "Snow Odyssey",
+            "activityLength": "0 minutes"
+        },
+        {
+            "name": "176)TsukiSkiing",
+            "time": "12pm-5pm",
+            "location": "Yukiyama_SkiSlope",
+            "itemsNeeded": "Super Skis",
+            "activityLength": "0 minutes"
+        },
+        {
+            "name": "177)TsukiWaiting",
+            "time": "10am-11pm",
+            "location": "Yukiyama_Onsen",
+            "itemsNeeded": "None!",
+            "activityLength": "10 minutes"
+        },
+        {
+            "name": "178)TsukiEatingIcecream",
+            "time": "12pm-4pm",
+            "location": "Yukiyama_Village",
+            "itemsNeeded": "Ice Pop",
+            "activityLength": "5 minutes"
+        },
+        {
+            "name": "179)TsukiFireworks_YVSnowGround",
+            "time": "11pm-12am",
+            "location": "Yukiyama_FishingHole",
+            "itemsNeeded": "Star Shooter",
+            "activityLength": "10 minutes"
+        },
+        {
+            "name": "180)TsukiReadingLordof the CArrots2_Lodge",
+            "time": "2pm-5pm, 8pm-10pm",
+            "location": "Yukiyama_Lodge",
+            "itemsNeeded": "Lord of the Carrots 2",
+            "activityLength": "10 minutes"
+        },
+        {
+            "name": "181)TsukiViewing_YVOnsen",
+            "time": "10am-11pm",
+            "location": "Yukiyama_Onsen",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "182)TsukiSad",
+            "time": "24h(nonrollable)",
+            "location": "Yukiyama_Lodge",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "183)TsukiFishingWSheriff_YVSnowground",
+            "time": "8am-11am",
+            "location": "Yukiyama_FishingHole",
+            "itemsNeeded": "Ice Pick",
+            "activityLength": "45 minutes"
+        },
+        {
+            "name": "184)TsukiWJunPoker_YVOnsen",
+            "time": "12am-3am, 10am-2pm",
+            "location": "Yukiyama_Onsen",
+            "itemsNeeded": "Clive's CarrotCard",
+            "activityLength": "60 minutes"
+        },
+        {
+            "name": "185)TsukiReadingLotC3_Lodge",
+            "time": "8am-6pm",
+            "location": "Yukiyama_Lodge",
+            "itemsNeeded": "Lord of the Carrots 3",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "186)TsukiHiking",
+            "time": "8am-10am",
+            "location": "Yukiyama_MountainBottom",
+            "itemsNeeded": "Straw Cloak",
+            "activityLength": "480 minutes"
+        },
+        {
+            "name": "187)TsukiLookingAtCliff",
+            "time": "24h(nonrollable)",
+            "location": "Yukiyama_MountainMiddle",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "188)TsukiClimbingCliff",
+            "time": "24h(nonrollable)",
+            "location": "Yukiyama_MountainMiddle",
+            "itemsNeeded": "None!",
+            "activityLength": "480 minutes"
+        },
+        {
+            "name": "189)TsukiReachesPeak",
+            "time": "24h(nonrollable)",
+            "location": "Yukiyama_MountainTop",
+            "itemsNeeded": "None!",
+            "activityLength": "60 minutes"
+        },
+        {
+            "name": "190)TsukiEatingChipsWithKubo",
+            "time": "24h(nonrollable)",
+            "location": "Yukiyama_MountainTop",
+            "itemsNeeded": "Carrot Chips",
+            "activityLength": "60 minutes"
+        },
+        {
+            "name": "191)TsukiDrinkingTeaWithKubo",
+            "time": "24h(nonrollable)",
+            "location": "Yukiyama_MountainTop",
+            "itemsNeeded": "None!",
+            "activityLength": "60 minutes"
+        },
+        {
+            "name": "192)TsukiRestingMountain",
+            "time": "24h(nonrollable)",
+            "location": "Yukiyama_MountainMiddle",
+            "itemsNeeded": "None!",
+            "activityLength": "120 minutes"
+        },
+        {
+            "name": "193)TsukiGliding",
+            "time": "24h(nonrollable)",
+            "location": "Yukiyama_MountainBottom",
+            "itemsNeeded": "None!",
+            "activityLength": "200 minutes"
+        },
+        {
+            "name": "194)TsukiCrash",
+            "time": "24h(nonrollable)",
+            "location": "GreatCity_GrandHotel",
+            "itemsNeeded": "None!",
+            "activityLength": "0 minutes"
+        },
+        {
+            "name": "195)TsukiMailingLetter_TrainStaion",
+            "time": "12am-12am",
+            "location": "Yukiyama_TrainStation",
+            "itemsNeeded": "None!",
+            "activityLength": "10 minutes"
+        },
+        {
+            "name": "196)TsukiWaitingBUs",
+            "time": "24h(nonrollable)",
+            "location": "Yukiyama_TrainStation",
+            "itemsNeeded": "None!",
+            "activityLength": "60 minutes"
+        },
+        {
+            "name": "197)TakingBUsBack_TrainBack",
+            "time": "24h(nonrollable)",
+            "location": "Yukiyama_BusOut",
+            "itemsNeeded": "None!",
+            "activityLength": "480 minutes"
+        },
+        {
+            "name": "198)TsukiWaiting_cityTrainStation",
+            "time": "24h(nonrollable)",
+            "location": "GreatCity_TrainStation",
+            "itemsNeeded": "None!",
+            "activityLength": "60 minutes"
+        },
+        {
+            "name": "199)TsukiTakingTrainBack",
+            "time": "24h(nonrollable)",
+            "location": "GreatCity_TrainOut",
+            "itemsNeeded": "None!",
+            "activityLength": "120 minutes"
+        },
+        {
+            "name": "200)TsukiWaiting_GCCM",
+            "time": "12am-12am",
+            "location": "GreatCity_ClubMoon",
+            "itemsNeeded": "None!",
+            "activityLength": "5 minutes"
+        },
+        {
+            "name": "201)TsukiFloating_GCCM",
+            "time": "9am-12pm, 2pm-10pm",
+            "location": "GreatCity_ClubMoon",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "202)TsukiTakingPhoto_GCCM",
+            "time": "6am-12pm",
+            "location": "GreatCity_ClubMoon",
+            "itemsNeeded": "cPhone XS Mini Max Plus",
+            "activityLength": "2 minutes"
+        },
+        {
+            "name": "203)TsukiLaptop_GCCM",
+            "time": "8pm-12am",
+            "location": "GreatCity_ClubMoon",
+            "itemsNeeded": "Carrot Book Pro",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "204)TsukiBungee_GCCM",
+            "time": "12am-12am",
+            "location": "GreatCity_ClubMoon",
+            "itemsNeeded": "None!",
+            "activityLength": "5 minutes"
+        },
+        {
+            "name": "205)TsukiDrinking_GCCM",
+            "time": "9am-12am, 12am-4am",
+            "location": "GreatCity_ClubMoon",
+            "itemsNeeded": "None!",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "206)TsukiMusic_GCCM",
+            "time": "9am-12am, 12am-4am",
+            "location": "GreatCity_ClubMoon",
+            "itemsNeeded": "Ceats Headset",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "207)TsukiEatingDesert_CMBlimp",
+            "time": "2pm-4pm, 9pm-10pm",
+            "location": "ClubMoon_Blimp",
+            "itemsNeeded": "None!",
+            "activityLength": "15 minutes"
+        },
+        {
+            "name": "208)TsukiPiloting_CMBlimp",
+            "time": "3am-5am",
+            "location": "ClubMoon_Blimp",
+            "itemsNeeded": "None!",
+            "activityLength": "15 minutes"
+        },
+        {
+            "name": "209)TsukiDancing_CMBlimp",
+            "time": "8pm-12am, 12am-4am",
+            "location": "ClubMoon_Blimp",
+            "itemsNeeded": "None!",
+            "activityLength": "15 minutes"
+        },
+        {
+            "name": "210)TsukiDJ_CMBlimp",
+            "time": "8pm-12am, 12am-4am",
+            "location": "ClubMoon_Blimp",
+            "itemsNeeded": "Ceats Headset",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "211)TsukiTelescope_CMBlimp",
+            "time": "8pm-12am, 12am-4am",
+            "location": "ClubMoon_Blimp",
+            "itemsNeeded": "None!",
+            "activityLength": "10 minutes"
+        },
+        {
+            "name": "212)TsukiReadingBook_CMBlimp",
+            "time": "12pm-4pm, 6pm-10pm",
+            "location": "ClubMoon_Blimp",
+            "itemsNeeded": "Lord of the Carrots 2",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "213)TsukiAdmiringDild_CMBlimp",
+            "time": "9am-12pm",
+            "location": "ClubMoon_Blimp",
+            "itemsNeeded": "None!",
+            "activityLength": "10 minutes"
+        },
+        {
+            "name": "214)TsukiDrinking_CMBlimp",
+            "time": "9pm-12am, 12am-2am",
+            "location": "ClubMoon_Blimp",
+            "itemsNeeded": "None!",
+            "activityLength": "15 minutes"
+        },
+        {
+            "name": "215)TsukiSingng_CMBlimp",
+            "time": "12pm-12am, 12am-2am",
+            "location": "ClubMoon_Blimp",
+            "itemsNeeded": "None!",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "216)TsukiJoggng_CMBlimp",
+            "time": "9am-11am",
+            "location": "ClubMoon_Blimp",
+            "itemsNeeded": "None!",
+            "activityLength": "15 minutes"
+        },
+        {
+            "name": "217)TsukiJuke_CMBlimp",
+            "time": "7pm-11pm",
+            "location": "ClubMoon_Blimp",
+            "itemsNeeded": "None!",
+            "activityLength": "15 minutes"
+        },
+        {
+            "name": "218)TsukiPomPom_CMBlimp",
+            "time": "7pm-11pm",
+            "location": "ClubMoon_Blimp",
+            "itemsNeeded": "None!",
+            "activityLength": "15 minutes"
+        },
+        {
+            "name": "219)TsukiWashingHair_CMBlimp",
+            "time": "12am-12am",
+            "location": "ClubMoon_Blimp",
+            "itemsNeeded": "None!",
+            "activityLength": "15 minutes"
+        },
+        {
+            "name": "220)TsukiFloat_CMBlimp",
+            "time": "9am-12pm",
+            "location": "ClubMoon_Blimp",
+            "itemsNeeded": "None!",
+            "activityLength": "18 minutes"
+        },
+        {
+            "name": "221)TsukiShopping_GCHub",
+            "time": "12am-12am",
+            "location": "GreatCity_CityHub",
+            "itemsNeeded": "None!",
+            "activityLength": "15 minutes"
+        },
+        {
+            "name": "222)TsukiMidsummerSlipper_Home",
+            "time": "1pm-3pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Geta Sandals",
+            "activityLength": "15 minutes"
+        },
+        {
+            "name": "223)TsukiMidsummerMask_Home",
+            "time": "1pm-3pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Kitsune Mask",
+            "activityLength": "15 minutes"
+        },
+        {
+            "name": "224)Tsuki_Midsummer_RedBeanTaiyaki",
+            "time": "2pm-5pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Red Bean Taiyaki",
+            "activityLength": "15 minutes"
+        },
+        {
+            "name": "225)Tsuki_Midsummer_SweetCornTaiyaki",
+            "time": "2pm-5pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Sweet Corn Taiyaki",
+            "activityLength": "15 minutes"
+        },
+        {
+            "name": "226)Tsuki_Midsummer_CottonCandy",
+            "time": "5pm-7pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Cotton Candy",
+            "activityLength": "15 minutes"
+        },
+        {
+            "name": "227)Tsuki_Midsummer_Takoyaki",
+            "time": "2pm-5pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Takoyaki",
+            "activityLength": "15 minutes"
+        },
+        {
+            "name": "228)Tsuki_Midsummer_UnicornTaiyaki",
+            "time": "11am-2pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Unicorn Taiyaki",
+            "activityLength": "15 minutes"
+        },
+        {
+            "name": "229)Tsuki_Midsummer_MatchaTaiyaki",
+            "time": "11am-2pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Matcha Taiyaki",
+            "activityLength": "15 minutes"
+        },
+        {
+            "name": "230)Tsuki_Midsummer_CherryTaiyaki",
+            "time": "11am-2pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Cherry Taiyaki",
+            "activityLength": "15 minutes"
+        },
+        {
+            "name": "231)Tsuki_Midsummer_GrilledCornCob",
+            "time": "11am-2pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Corn on the Cob",
+            "activityLength": "15 minutes"
+        },
+        {
+            "name": "232)Tsuki_Midsummer_TornadoPotato",
+            "time": "11am-2pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Tornado Potato",
+            "activityLength": "15 minutes"
+        },
+        {
+            "name": "233)Tsuki_Midsummer_CarrotCart",
+            "time": "24h(nonrollable)",
+            "location": "MushroomVillage_EventSquare",
+            "itemsNeeded": "None!",
+            "activityLength": "15 minutes"
+        },
+        {
+            "name": "234)Tsuki_Midsummer_Lantern",
+            "time": "11pm-12am, 12am-1am",
+            "location": "MushroomVillage_EventSquare",
+            "itemsNeeded": "None!",
+            "activityLength": "15 minutes"
+        },
+        {
+            "name": "235)Tsuki_Midsummer_CarrotTaiyaki",
+            "time": "11am-2pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Carrot Taiyaki",
+            "activityLength": "15 minutes"
+        },
+        {
+            "name": "236)Tsuki_JFCM_WiFi",
+            "time": "12am-4am, 8pm-12am",
+            "location": "Forest_ClubMoon",
+            "itemsNeeded": "cPhone XS Mini Max Plus",
+            "activityLength": "15 minutes"
+        },
+        {
+            "name": "237)Tsuki_JFCM_CarrotBoy",
+            "time": "4am-8am, 3pm-8pm",
+            "location": "Forest_ClubMoon",
+            "itemsNeeded": "CarrotBoy",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "238)Tsuki_JFCM_LookingOut",
+            "time": "12am-7am, 10pm-12am",
+            "location": "Forest_ClubMoon",
+            "itemsNeeded": "None!",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "239)Tsuki_JFCM_SittingDurian",
+            "time": "8am-3pm",
+            "location": "Forest_ClubMoon",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "240)Tsuki_JFCM_PretendButterfly",
+            "time": "10am-5pm",
+            "location": "Forest_ClubMoon",
+            "itemsNeeded": "None!",
+            "activityLength": "15 minutes"
+        },
+        {
+            "name": "241)Tsuki_JFCM_LibraryRead",
+            "time": "5pm-12am",
+            "location": "Forest_ClubMoon",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "242)Tsuki_JFCM_Eating",
+            "time": "6am-8am, 12pm-2pm, 6pm-8pm",
+            "location": "Forest_ClubMoon",
+            "itemsNeeded": "None!",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "243)Tsuki_JF_Sad",
+            "time": "24h(nonrollable)",
+            "location": "Forest_Camp",
+            "itemsNeeded": "None!",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "244)Tsuki_JF_GhostStories",
+            "time": "12am-3am, 7pm-12am",
+            "location": "Forest_Camp",
+            "itemsNeeded": "Torch",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "245)Tsuki_JF_Hammock",
+            "time": "6am-10pm",
+            "location": "Forest_Camp",
+            "itemsNeeded": "Hammock",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "246)Tsuki_JF_Sandwich",
+            "time": "1pm-3pm, 6pm-8pm",
+            "location": "Forest_Camp",
+            "itemsNeeded": "Sandwich",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "247)Tsuki_DF_HikingTV",
+            "time": "24h(nonrollable)",
+            "location": "Forest_Deep",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "248)Tsuki_JF_Kebab",
+            "time": "1pm-3pm, 6pm-8pm",
+            "location": "Forest_Camp",
+            "itemsNeeded": "Veggie Kebab",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "249)Tsuki_JF_Curry",
+            "time": "8am-10am, 12pm-12am",
+            "location": "Forest_Camp",
+            "itemsNeeded": "Silver Curry, Dutch Oven",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "250)Tsuki_JF_BurntFood",
+            "time": "8am-9am, 12pm-1pm",
+            "location": "Forest_Camp",
+            "itemsNeeded": "Dutch Oven",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "251)Tsuki_JF_Beans",
+            "time": "8am-10am, 12pm-2pm",
+            "location": "Forest_Camp",
+            "itemsNeeded": "Baked Beans",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "252)Tsuki_JF_CarSleep",
+            "time": "10pm-12am, 12am-6am",
+            "location": "Forest_Camp",
+            "itemsNeeded": "Cazda R8",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "253)Tsuki_JF_CheapTentSleep",
+            "time": "10pm-12am, 12am-6am",
+            "location": "Forest_Camp",
+            "itemsNeeded": "Mazushi Tent",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "254)Tsuki_JF_ExpensiveTentSleep",
+            "time": "10pm-12am, 12am-6am",
+            "location": "Forest_Camp",
+            "itemsNeeded": "Alute Tent",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "255)Tsuki_DF_CompassTV",
+            "time": "24h(nonrollable)",
+            "location": "Forest_Deep",
+            "itemsNeeded": "Compass",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "256)TsukiRidingCarBack",
+            "time": "24h(nonrollable)",
+            "location": "GreatCity_TrainOut",
+            "itemsNeeded": "None!",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "257)TsukiRidingCarToJF",
+            "time": "24h(nonrollable)",
+            "location": "MushroomVillage_TrainOut",
+            "itemsNeeded": "None!",
+            "activityLength": "180 minutes"
+        },
+        {
+            "name": "258)TsukiRidingCarFromJF",
+            "time": "24h(nonrollable)",
+            "location": "GreatCity_TrainOut",
+            "itemsNeeded": "None!",
+            "activityLength": "180 minutes"
+        },
+        {
+            "name": "259)TsukiShoppingGS",
+            "time": "24h(nonrollable)",
+            "location": "MushroomVillage_GasStation",
+            "itemsNeeded": "None!",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "260)TsukiCaughtGS",
+            "time": "24h(nonrollable)",
+            "location": "MushroomVillage_GasStation",
+            "itemsNeeded": "None!",
+            "activityLength": "5 minutes"
+        },
+        {
+            "name": "261)TsukiSadMV",
+            "time": "24h(nonrollable)",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "None!",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "262)TsukiTopUpGas",
+            "time": "24h(nonrollable)",
+            "location": "MushroomVillage_GasStation",
+            "itemsNeeded": "None!",
+            "activityLength": "60 minutes"
+        },
+        {
+            "name": "263)TsukiFlyingKite_JF",
+            "time": "10am-1pm",
+            "location": "Forest_Log",
+            "itemsNeeded": "Red Butterfly",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "264)TsukiStickFight_JF",
+            "time": "7am-10am",
+            "location": "Forest_Log",
+            "itemsNeeded": "Trekking Pole",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "265)Tsuki_JF_Balancing",
+            "time": "12am-2am, 6pm-12am",
+            "location": "Forest_Log",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "266)Tsuki_JF_Hopping",
+            "time": "2am-10am",
+            "location": "Forest_Log",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "267)Tsuki_JF_Floating",
+            "time": "6am-2pm, 8pm-12am",
+            "location": "Forest_Waterfall",
+            "itemsNeeded": "Ducky Float",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "268)Tsuki_JF_Machete",
+            "time": "24h(nonrollable)",
+            "location": "Forest_Waterfall",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "269)Tsuki_JF_Firefly",
+            "time": "3am-4am",
+            "location": "Forest_Waterfall",
+            "itemsNeeded": "Mason Jar",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "270)Tsuki_JF_Snorkelling",
+            "time": "9am-6pm",
+            "location": "Forest_Waterfall",
+            "itemsNeeded": "Snorkel",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "271)Tsuki_JF_RockSkipping",
+            "time": "12am-4am, 3pm-12am",
+            "location": "Forest_Waterfall",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "272)Tsuki_JF_InstantCoffee",
+            "time": "4am-9am",
+            "location": "Forest_Waterfall",
+            "itemsNeeded": "Instant Coffee",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "273)Tsuki_JF_FishingWaterfall",
+            "time": "4am-3pm",
+            "location": "Forest_Waterfall",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "274)Tsuki_JF_Torch",
+            "time": "24h(nonrollable)",
+            "location": "Forest_Cave",
+            "itemsNeeded": "Torch",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "275)Tsuki_DF_SleepingTV",
+            "time": "12am-5am, 10pm-12am(nonrollable)",
+            "location": "Forest_Deep",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "276)Tsuki_DF_HikingHugo",
+            "time": "24h(nonrollable)",
+            "location": "Forest_Deep",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "277)Tsuki_DF_TiredHugo",
+            "time": "24h(nonrollable)",
+            "location": "Forest_Deep",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "278)Tsuki_DF_CompassHugo",
+            "time": "24h(nonrollable)",
+            "location": "Forest_Deep",
+            "itemsNeeded": "Compass",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "279)Tsuki_DF_HikingAS",
+            "time": "24h(nonrollable)",
+            "location": "Forest_Deep",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "280)Tsuki_DF_TiredAS",
+            "time": "24h(nonrollable)",
+            "location": "Forest_Deep",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "281)Tsuki_DF_CompassAS",
+            "time": "24h(nonrollable)",
+            "location": "Forest_Deep",
+            "itemsNeeded": "Compass",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "282)Tsuki_DF_HikingU",
+            "time": "24h(nonrollable)",
+            "location": "Forest_Deep",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "283)Tsuki_DF_TiredU",
+            "time": "24h(nonrollable)",
+            "location": "Forest_Deep",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "284)Tsuki_DF_CompassU",
+            "time": "24h(nonrollable)",
+            "location": "Forest_Deep",
+            "itemsNeeded": "Compass",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "285)Tsuki_DF_SpookiesU",
+            "time": "3am-4am(nonrollable)",
+            "location": "Forest_Deep",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "286)Tsuki_DF_HikingNS",
+            "time": "24h(nonrollable)",
+            "location": "Forest_Deep",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "287)Tsuki_DF_CompassNS",
+            "time": "24h(nonrollable)",
+            "location": "Forest_Deep",
+            "itemsNeeded": "Compass",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "288)Tsuki_DF_TiredNS",
+            "time": "24h(nonrollable)",
+            "location": "Forest_Deep",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "289)Tsuki_DF_PrayingNS",
+            "time": "24h(nonrollable)",
+            "location": "Forest_Deep",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "290)Tsuki_DF_HikingSol",
+            "time": "24h(nonrollable)",
+            "location": "Forest_Deep",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "291)Tsuki_DF_SittingSol",
+            "time": "24h(nonrollable)",
+            "location": "Forest_Deep",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "292)Tsuki_DF_CompassSol",
+            "time": "24h(nonrollable)",
+            "location": "Forest_Deep",
+            "itemsNeeded": "Compass",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "293)Tsuki_DF_TiredSol",
+            "time": "24h(nonrollable)",
+            "location": "Forest_Deep",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "294)Tsuki_DF_FishingCP",
+            "time": "24h(nonrollable)",
+            "location": "Forest_Deep",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "295)Tsuki_DF_SittingEC",
+            "time": "24h(nonrollable)",
+            "location": "Forest_Deep",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "296)Tsuki_DF_TiredEC",
+            "time": "24h(nonrollable)",
+            "location": "Forest_Deep",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "297)Tsuki_DF_CompassEC",
+            "time": "24h(nonrollable)",
+            "location": "Forest_Deep",
+            "itemsNeeded": "Compass",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "298)Tsuki_DF_HikingEC",
+            "time": "24h(nonrollable)",
+            "location": "Forest_Deep",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "299)Tsuki_DF_HikingWell",
+            "time": "24h(nonrollable)",
+            "location": "Forest_Deep",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "300)Tsuki_DF_TiredWell",
+            "time": "24h(nonrollable)",
+            "location": "Forest_Deep",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "301)Tsuki_DF_CompassWell",
+            "time": "24h(nonrollable)",
+            "location": "Forest_Deep",
+            "itemsNeeded": "Compass",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "302)Tsuki_DF_HikingYG",
+            "time": "24h(nonrollable)",
+            "location": "Forest_Deep",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "303)Tsuki_DF_RunningBees",
+            "time": "24h(nonrollable)",
+            "location": "Forest_Deep",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "304)Tsuki_Home_GoldenHoe",
+            "time": "9am-2pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Golden Hoe",
+            "activityLength": "-1 minutes"
+        },
+        {
+            "name": "305)Tsuki_Home_Revive",
+            "time": "24h(nonrollable)",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "306)Tsuki_Home_Lyre",
+            "time": "24h(nonrollable)",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Lyre",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "307)Tsuki_Home_GasStationSushi",
+            "time": "24h(nonrollable)",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Gas Station Sushi",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "308)Tsuki_JF_Climb",
+            "time": "6am-8am, 12am-7pm",
+            "location": "Forest_Camp",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "309)Tsuki_JF_Stretching",
+            "time": "12am-6am, 7pm-12am",
+            "location": "Forest_Camp",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "310)Tsuki_JF_Tinder",
+            "time": "12am-6pm",
+            "location": "Forest_Camp",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "311)Tsuki_JF_Stick",
+            "time": "10am-12pm, 3pm-6pm",
+            "location": "Forest_Camp",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "312)Tsuki_JF_CarPacking",
+            "time": "24h(nonrollable)",
+            "location": "Forest_Camp",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "313)Tsuki_JF_LimoWaiting",
+            "time": "24h(nonrollable)",
+            "location": "Forest_Camp",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "314)Tsuki_Home_FiveStones_GO",
+            "time": "1pm-3pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Five Stones",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "315)Tsuki_Home_IceKachang_GO",
+            "time": "2pm-4pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Ice Kachang",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "316)Tsuki_Home_Chapteh_GO",
+            "time": "8am-11am",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Chapteh",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "317)Tsuki_Home_Bandung_GO",
+            "time": "10am-12pm, 6pm-9pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Bandung",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "318)Tsuki_Home_Calamansi_GO",
+            "time": "10am-12pm, 6pm-9pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Calamansi",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "319)Tsuki_Home_SoyMilk_GO",
+            "time": "10am-12pm, 6pm-9pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Soy Milk",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "320)Tsuki_Home_KuehLapis_GO",
+            "time": "5pm-7pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Kueh Lapis",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "321)Tsuki_Home_RainbowKueh_GO",
+            "time": "5pm-7pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Rainbow Kueh",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "322)Tsuki_Home_TutuKueh_GO",
+            "time": "11am-2pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Kueh Tutu",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "323)Tsuki_Home_OnehOneh_GO",
+            "time": "11am-2pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Ondeh Ondeh",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "324)Tsuki_Home_Chendol_GO",
+            "time": "2pm-4pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Chendol",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "325)Tsuki_Home_SoonKueh_GO",
+            "time": "8am-10am, 6pm-8pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Soon Kueh",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "326)Tsuki_Home_HawFlakes_GO",
+            "time": "10am-12pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Haw Flakes",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "327)Tsuki_Home_AngKuKueh_GO",
+            "time": "8am-10am, 6pm-8pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Ang Ku Kueh",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "328)Tsuki_Home_ChiIceKachang_GO",
+            "time": "3pm-5pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Ice Kachang",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "329)Tsuki_Home_MocaChendol_GO",
+            "time": "3pm-5pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Chendol",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "330)Tsuki_JF_Leaf",
+            "time": "8am-10pm",
+            "location": "Forest_Log",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "331)Tsuki_JF_Sleep",
+            "time": "6pm-12am, 12am-2am",
+            "location": "Forest_Log",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "332)Tsuki_JF_DayDream",
+            "time": "10am-6pm",
+            "location": "Forest_Log",
+            "itemsNeeded": "None!",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "333)Tsuki_JF_LimoFromJF",
+            "time": "24h(nonrollable)",
+            "location": "GreatCity_TrainOut",
+            "itemsNeeded": "None!",
+            "activityLength": "240 minutes"
+        },
+        {
+            "name": "334)Tsuki_JF_Cave",
+            "time": "24h(nonrollable)",
+            "location": "Forest_Cave",
+            "itemsNeeded": "None!",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "335)Tsuki_JF_Ukulele",
+            "time": "8am-12pm",
+            "location": "Forest_Camp",
+            "itemsNeeded": "Carrot Ukulele",
+            "activityLength": "15 minutes"
+        },
+        {
+            "name": "336)Tsuki_JF_Sleeping",
+            "time": "24h(nonrollable)",
+            "location": "Forest_Camp",
+            "itemsNeeded": "None!",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "337)Tsuki_Home_KuehDadar_GO",
+            "time": "8am-10am, 6pm-8pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Kueh Dadar",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "338)Tsuki_DF_SavedYamamuraWell",
+            "time": "24h(nonrollable)",
+            "location": "Forest_Deep",
+            "itemsNeeded": "None!",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "339)Tsuki_MV_LanternBurn",
+            "time": "8pm-12am, 12am-2am",
+            "location": "MushroomVillage_EventSquare",
+            "itemsNeeded": "Traditional Lantern",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "340)Tsuki_Home_OrangeMooncake",
+            "time": "7pm-10pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Orange Snowskin",
+            "activityLength": "10 minutes"
+        },
+        {
+            "name": "341)Tsuki_Home_DurianMooncake",
+            "time": "7pm-10pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Durian Snowskin",
+            "activityLength": "10 minutes"
+        },
+        {
+            "name": "342)Tsuki_Home_BlueMooncake",
+            "time": "7pm-10pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Blue Pea Snowskin",
+            "activityLength": "10 minutes"
+        },
+        {
+            "name": "343)Tsuki_Home_PinkMooncake",
+            "time": "7pm-10pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Strawberry Snowskin",
+            "activityLength": "10 minutes"
+        },
+        {
+            "name": "344)Tsuki_Home_GreenMooncake",
+            "time": "7pm-10pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Matcha Snowskin",
+            "activityLength": "10 minutes"
+        },
+        {
+            "name": "345)Tsuki_Home_PurpleMooncake",
+            "time": "7pm-10pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Yam Snowskin",
+            "activityLength": "10 minutes"
+        },
+        {
+            "name": "346)Tsuki_Home_FlakyMooncake",
+            "time": "7pm-10pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Flaky Mooncake",
+            "activityLength": "10 minutes"
+        },
+        {
+            "name": "347)Tsuki_Home_LuxuriousMooncake",
+            "time": "8pm-10pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Expensive Mooncake",
+            "activityLength": "15 minutes"
+        },
+        {
+            "name": "348)Tsuki_Home_SaltedMooncake",
+            "time": "7pm-10pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Egg Yolk Mooncake",
+            "activityLength": "10 minutes"
+        },
+        {
+            "name": "349)Tsuki_Home_CassiaWine",
+            "time": "7pm-12am, 12am-3am",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Cassia Wine",
+            "activityLength": "30 minutes"
+        },
+        {
+            "name": "350)Tsuki&Moca_Home_OsmanthusTea",
+            "time": "7pm-11pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Osmanthus Tea",
+            "activityLength": "15 minutes"
+        },
+        {
+            "name": "351)Tsuki&Chi_Home_Pomelo",
+            "time": "10am-1pm, 6pm-10pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Pomelo",
+            "activityLength": "15 minutes"
+        },
+        {
+            "name": "352)Tsuki&Pipi_Home_Lantern",
+            "time": "6pm-11pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Goldfish Lantern, Bunny Lantern",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "353)Tsuki&Pipi_MV_Lantern",
+            "time": "6pm-11pm",
+            "location": "MushroomVillage_TownHub",
+            "itemsNeeded": "Goldfish Lantern, Bunny Lantern",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "354)Tsuki&Chi_Home_CaramelApple",
+            "time": "4pm-7pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Caramel Apple",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "355)Tsuki&Chi&Moca_Home_GhostCookies",
+            "time": "7pm-10pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Ghost Cookies",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "356)Tsuki&Chi&Moca_Home_Pumpkin pie",
+            "time": "6pm-9pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Pumpkin Pie",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "357)Tsuki&Chi&Moca_Home_Cupcake",
+            "time": "24h",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Strawberry Cupcake, Marshmellow Cupcake, Fondant Cupcake, Icing Cupcake",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "358)Tsuki_Home_StrawberryCupcake",
+            "time": "1pm-4pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Strawberry Cupcake",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "359)Tsuki_Home_FondantCupcake",
+            "time": "1pm-4pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Fondant Cupcake",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "360)Tsuki_Home_IcingCupcake",
+            "time": "1pm-4pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Icing Cupcake",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "361)Tsuki_Home_MarshmellowCupcake",
+            "time": "1pm-4pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Marshmellow Cupcake",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "362)Tsuki_Home_CandyCorn",
+            "time": "10am-1pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Candy Corn",
+            "activityLength": "20 minutes"
+        },
+        {
+            "name": "363)Tsuki_Home_MummyWalk",
+            "time": "24h",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Mummy Costume",
+            "activityLength": "1 minutes"
+        },
+        {
+            "name": "364)Tsuki_MV_MummyWalk",
+            "time": "24h(nonrollable)",
+            "location": "MushroomVillage_TownHub",
+            "itemsNeeded": "None!",
+            "activityLength": "4 minutes"
+        },
+        {
+            "name": "365)Tsuki_HalloweenMV_MummyWalk",
+            "time": "24h(nonrollable)",
+            "location": "MushroomVillage_EventSquare",
+            "itemsNeeded": "None!",
+            "activityLength": "5 minutes"
+        },
+        {
+            "name": "366)Tsuki&Pipi_MV_Scare",
+            "time": "12pm-4pm",
+            "location": "MushroomVillage_TownHub",
+            "itemsNeeded": "None!",
+            "activityLength": "10 minutes"
+        },
+        {
+            "name": "367)Tsuki_GV_Sit",
+            "time": "24h",
+            "location": "MushroomVillage_Graveyard",
+            "itemsNeeded": "None!",
+            "activityLength": "10 minutes"
+        },
+        {
+            "name": "368)Tsuki_GV_Sweep",
+            "time": "24h",
+            "location": "MushroomVillage_Graveyard",
+            "itemsNeeded": "None!",
+            "activityLength": "10 minutes"
+        },
+        {
+            "name": "369)Tsuki&Yori&Pipi_GV_Pray",
+            "time": "24h(nonrollable)",
+            "location": "MushroomVillage_Graveyard",
+            "itemsNeeded": "None!",
+            "activityLength": "10 minutes"
+        },
+        {
+            "name": "370)Tsuki&Chi_Home_PanDeMuertos",
+            "time": "24h",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Pan De Muerto",
+            "activityLength": "10 minutes"
+        },
+        {
+            "name": "371)Tsuki&Moca_Home_HotChocolate",
+            "time": "24h",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "Hot Chocolate",
+            "activityLength": "10 minutes"
+        },
+        {
+            "name": "372)Tsuki_HomeBirthday",
+            "time": "8am-8pm",
+            "location": "MushroomVillage_Home",
+            "itemsNeeded": "None!",
+            "activityLength": "10 minutes"
+        }
+    ]
+}
